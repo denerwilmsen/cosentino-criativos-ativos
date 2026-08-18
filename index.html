@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Portal de visualização dos criativos ativos da Imobiliária Cosentino.">
+  <title>Criativos ativos | Imobiliária Cosentino</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Cosentino, início"><strong>cosentino</strong><small>imobiliária</small></a>
+      <div class="live"><i></i> Campanhas ativas</div>
+    </header>
+    <section class="hero" id="top">
+      <div class="hero-main">
+        <p class="eyebrow">Central de mídia <span></span> Meta Ads</p>
+        <h1>Criativos <strong>ativos.</strong></h1>
+      </div>
+      <div class="hero-shapes" aria-hidden="true"><i></i><i></i><i></i></div>
+    </section>
+    <section class="workspace">
+      <nav class="filters" aria-label="Filtrar por estratégia"></nav>
+      <div class="content">
+        <div class="content-head">
+          <div><p class="eyebrow dark">Criativos ativos</p><h2 id="section-title">Todos os criativos</h2></div>
+          <label class="search"><span>⌕</span><input id="search" placeholder="Buscar criativo ou campanha" aria-label="Buscar criativo ou campanha"></label>
+        </div>
+        <div class="grid" id="grid"></div>
+      </div>
+    </section>
+    <footer><span>Imobiliária Cosentino</span><span id="total"></span></footer>
+  </main>
+  <div class="modal" id="modal" role="dialog" aria-modal="true" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>
