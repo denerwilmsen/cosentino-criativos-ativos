@@ -1,6 +1,6 @@
 const categories = [
   { id: "todos", label: "Todos os criativos", short: "Todos" },
-  { id: "aquisicao", label: "Engajamento / Aquisição", short: "Aquisição" },
+  { id: "engajamento", label: "Engajamento", short: "Engajamento" },
   { id: "venda", label: "Venda", short: "Venda" },
   { id: "aluguel", label: "Aluguel", short: "Aluguel" },
 ];
@@ -11,6 +11,24 @@ let query = "";
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
 const category = (id) => categories.find((item) => item.id === id);
+const money = (value) => new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL" }).format(value || 0);
+
+function renderMetrics() {
+  const metrics = data.strategyMetrics || [];
+  const leadMetrics = metrics.filter((item) => item.category === "venda" || item.category === "aluguel");
+  const totalSpend = metrics.reduce((sum, item) => sum + item.spend, 0);
+  const leadSpend = leadMetrics.reduce((sum, item) => sum + item.spend, 0);
+  const totalLeads = leadMetrics.reduce((sum, item) => sum + item.leads, 0);
+  const averageCpl = totalLeads ? leadSpend / totalLeads : null;
+  const cards = [{ category: "total", label: "Total geral", spend: totalSpend, leads: totalLeads, cpl: averageCpl }, ...metrics];
+  document.getElementById("metric-grid").innerHTML = cards.map((item) => {
+    const total = item.category === "total";
+    const showLeads = total || item.category !== "engajamento";
+    const label = total ? item.label : category(item.category).label;
+    const count = total ? "3 estratégias" : `${item.campaigns} ${item.campaigns === 1 ? "campanha" : "campanhas"}`;
+    return `<article class="metric-card ${item.category}"><div class="metric-title"><span>${label}</span><small>${count}</small></div><strong>${money(item.spend)}</strong><p>${total ? "investimento total no mês" : "investidos no mês"}</p>${showLeads ? `<div class="metric-details"><div><b>${item.leads}</b><span>${total ? "Total de leads" : "Leads"}</span></div><div><b>${item.cpl == null ? "—" : money(item.cpl)}</b><span>${total ? "CPL médio" : "CPL"}</span></div></div>` : ""}</article>`;
+  }).join("");
+}
 
 function renderFilters() {
   document.querySelector(".filters").innerHTML = categories.map((item) => {
@@ -36,7 +54,7 @@ function renderGrid() {
   document.querySelectorAll("[data-id]").forEach((button) => button.addEventListener("click", () => openModal(data.creatives.find((item) => item.id === button.dataset.id))));
 }
 
-function render() { renderFilters(); renderGrid(); document.getElementById("total").textContent = `${data.total} criativos ativos`; }
+function render() { renderMetrics(); renderFilters(); renderGrid(); document.getElementById("total").textContent = `${data.total} criativos ativos`; }
 
 function openModal(creative) {
   const modal = document.getElementById("modal");

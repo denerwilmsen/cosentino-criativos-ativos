@@ -1,13 +1,13 @@
-{
-    "updatedAt":  "2026-08-18T11:56:39.347567-03:00",
+﻿{
+    "updatedAt":  "2026-08-20T18:04:57.836874-03:00",
     "total":  35,
     "creatives":  [
                       {
                           "id":  "120244146109040319",
-                          "name":  "AD031 [IU] TEMOS O SEU NOVO IMÃƒâ€œVEL",
+                          "name":  "AD031 [IU] TEMOS O SEU NOVO IMÃƒÆ’Ã¢â‚¬Å“VEL",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120244146109040319-poster.jpg",
                           "video":  null,
@@ -19,7 +19,7 @@
                           "name":  "AD024 [IU] VIVA NO SPLENDORE",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120242449595690319-poster.jpg",
                           "video":  null,
@@ -31,7 +31,7 @@
                           "name":  "AD023 [IU] VIVA NO SPLENDORE",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120242449585210319-poster.jpg",
                           "video":  null,
@@ -43,7 +43,7 @@
                           "name":  "AD021 [IU] VIVA NO SPLENDORE",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387080319-poster.jpg",
                           "video":  null,
@@ -55,7 +55,7 @@
                           "name":  "AD023 [IU] VIVA NO SPLENDORE",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387060319-poster.jpg",
                           "video":  null,
@@ -64,10 +64,10 @@
                       },
                       {
                           "id":  "120244145468830319",
-                          "name":  "AD028 [IU] JARDIM DAS AMÃƒâ€°RICAS",
+                          "name":  "AD028 [IU] JARDIM DAS AMÃƒÆ’Ã¢â‚¬Â°RICAS",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120244145468830319-poster.jpg",
                           "video":  null,
@@ -76,10 +76,10 @@
                       },
                       {
                           "id":  "120245667387040319",
-                          "name":  "AD031 [IU] TEMOS O SEU NOVO IMÃƒâ€œVEL",
+                          "name":  "AD031 [IU] TEMOS O SEU NOVO IMÃƒÆ’Ã¢â‚¬Å“VEL",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387040319-poster.jpg",
                           "video":  null,
@@ -91,7 +91,7 @@
                           "name":  "AD021 [IU] VIVA NO SPLENDORE",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120242449395640319-poster.jpg",
                           "video":  null,
@@ -100,10 +100,10 @@
                       },
                       {
                           "id":  "120245667387050319",
-                          "name":  "AD028 [IU] JARDIM DAS AMÃƒâ€°RICAS",
+                          "name":  "AD028 [IU] JARDIM DAS AMÃƒÆ’Ã¢â‚¬Â°RICAS",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387050319-poster.jpg",
                           "video":  null,
@@ -115,7 +115,7 @@
                           "name":  "AD024 [IU] VIVA NO SPLENDORE",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387070319-poster.jpg",
                           "video":  null,
@@ -127,7 +127,7 @@
                           "name":  "AD015 [VD] [EXISTENTE] [SPLENDORE RESORT RESIDENCE]",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387090319-poster.jpg",
                           "video":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387090319.mp4",
@@ -136,10 +136,10 @@
                       },
                       {
                           "id":  "120241628056210319",
-                          "name":  "AD017 [VD] [EXISTENTE] [JARDIM DAS AMÃƒâ€°RICAS X]",
+                          "name":  "AD017 [VD] [EXISTENTE] [JARDIM DAS AMÃƒÆ’Ã¢â‚¬Â°RICAS X]",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241628056210319-poster.jpg",
                           "video":  null,
@@ -151,7 +151,7 @@
                           "name":  "AD015 [VD] [EXISTENTE] [SPLENDORE RESORT RESIDENCE]",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241628056270319-poster.jpg",
                           "video":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241628056270319.mp4",
@@ -160,10 +160,10 @@
                       },
                       {
                           "id":  "120245667387100319",
-                          "name":  "AD017 [VD] [EXISTENTE] [JARDIM DAS AMÃƒâ€°RICAS X]",
+                          "name":  "AD017 [VD] [EXISTENTE] [JARDIM DAS AMÃƒÆ’Ã¢â‚¬Â°RICAS X]",
                           "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_AWARENESS",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120245667387100319-poster.jpg",
                           "video":  null,
@@ -292,10 +292,10 @@
                       },
                       {
                           "id":  "120241627400010319",
-                          "name":  "AD017 [VD] [EXISTENTE] [JARDIM DAS AMÃƒâ€°RICAS X]",
+                          "name":  "AD017 [VD] [EXISTENTE] [JARDIM DAS AMÃƒÆ’Ã¢â‚¬Â°RICAS X]",
                           "campaign":  "[V4] [ENG] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_ENGAGEMENT",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241627400010319-poster.jpg",
                           "video":  null,
@@ -307,7 +307,7 @@
                           "name":  "AD016 [VD] [EXISTENTE] [PLANO MASTER]",
                           "campaign":  "[V4] [ENG] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_ENGAGEMENT",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241627244020319-poster.jpg",
                           "video":  null,
@@ -316,10 +316,10 @@
                       },
                       {
                           "id":  "120241627342760319",
-                          "name":  "AD017 [VD] [EXISTENTE] [PREOCUPAÃƒâ€¡ÃƒÆ’O COM O CONSUMIDOR FINAL]",
+                          "name":  "AD017 [VD] [EXISTENTE] [PREOCUPAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã†â€™O COM O CONSUMIDOR FINAL]",
                           "campaign":  "[V4] [ENG] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_ENGAGEMENT",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241627342760319-poster.jpg",
                           "video":  null,
@@ -331,7 +331,7 @@
                           "name":  "AD015 [VD] [EXISTENTE] [SPLENDORE RESORT RESIDENCE]",
                           "campaign":  "[V4] [ENG] [RECONHECIMENTO DE MARCA]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
-                          "category":  "aquisicao",
+                          "category":  "engajamento",
                           "objective":  "OUTCOME_ENGAGEMENT",
                           "image":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241626733260319-poster.jpg",
                           "video":  "https://raw.githubusercontent.com/denerwilmsen/cosentino-criativos-ativos/main/media/120241626733260319.mp4",
@@ -340,7 +340,7 @@
                       },
                       {
                           "id":  "120251231603670319",
-                          "name":  "AD043 [VD] CASA CONDOMÃƒÂNIO VILA ROMA",
+                          "name":  "AD043 [VD] CASA CONDOMÃƒÆ’Ã‚ÂNIO VILA ROMA",
                           "campaign":  "[V4] [LEAD] [ONGOING] [ALUGUEL]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO]",
                           "category":  "aluguel",
@@ -352,7 +352,7 @@
                       },
                       {
                           "id":  "120245855290860319",
-                          "name":  "AD033 [CS] LOCAÃƒâ€¡ÃƒÆ’O COMERCIAL",
+                          "name":  "AD033 [CS] LOCAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã†â€™O COMERCIAL",
                           "campaign":  "[V4] [LEAD] [ONGOING] [ALUGUEL]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [COMERCIAL]",
                           "category":  "aluguel",
@@ -376,7 +376,7 @@
                       },
                       {
                           "id":  "120245855412980319",
-                          "name":  "AD034 [CS] LOCAÃƒâ€¡ÃƒÆ’O COMERCIAL",
+                          "name":  "AD034 [CS] LOCAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã†â€™O COMERCIAL",
                           "campaign":  "[V4] [LEAD] [ONGOING] [ALUGUEL]",
                           "adset":  "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [COMERCIAL]",
                           "category":  "aluguel",
@@ -422,5 +422,75 @@
                           "mediaType":  "image",
                           "updatedAt":  "2026-03-20T10:24:19-0400"
                       }
-                  ]
+                  ],
+    "metricsPeriod":  {
+                          "label":  "MÃªs atual",
+                          "dateStart":  "2026-08-01",
+                          "dateStop":  "2026-08-20"
+                      },
+    "strategyMetrics":  [
+                            {
+                                "category":  "venda",
+                                "spend":  193.36,
+                                "leads":  10.0,
+                                "cpl":  19.34,
+                                "campaigns":  1
+                            },
+                            {
+                                "category":  "aluguel",
+                                "spend":  694.34,
+                                "leads":  87.0,
+                                "cpl":  7.98,
+                                "campaigns":  1
+                            },
+                            {
+                                "category":  "engajamento",
+                                "spend":  524.04,
+                                "leads":  6.0,
+                                "cpl":  87.34,
+                                "campaigns":  2
+                            }
+                        ],
+    "campaignMetrics":  [
+                            {
+                                "campaignId":  "120241628056220319",
+                                "campaign":  "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+                                "category":  "engajamento",
+                                "spend":  324.92,
+                                "leads":  6.0,
+                                "cpl":  54.15,
+                                "dateStart":  "2026-08-01",
+                                "dateStop":  "2026-08-20"
+                            },
+                            {
+                                "campaignId":  "120236188138110319",
+                                "campaign":  "[V4] [LEAD] [ONGOING] [LEADSTAKER MODAL] [VENDA]",
+                                "category":  "venda",
+                                "spend":  193.36,
+                                "leads":  10.0,
+                                "cpl":  19.34,
+                                "dateStart":  "2026-08-01",
+                                "dateStop":  "2026-08-20"
+                            },
+                            {
+                                "campaignId":  "120233031557360319",
+                                "campaign":  "[V4] [ENG] [RECONHECIMENTO DE MARCA]",
+                                "category":  "engajamento",
+                                "spend":  199.12,
+                                "leads":  0,
+                                "cpl":  null,
+                                "dateStart":  "2026-08-01",
+                                "dateStop":  "2026-08-20"
+                            },
+                            {
+                                "campaignId":  "120232294601950319",
+                                "campaign":  "[V4] [LEAD] [ONGOING] [ALUGUEL]",
+                                "category":  "aluguel",
+                                "spend":  694.34,
+                                "leads":  87.0,
+                                "cpl":  7.98,
+                                "dateStart":  "2026-08-01",
+                                "dateStop":  "2026-08-20"
+                            }
+                        ]
 }
