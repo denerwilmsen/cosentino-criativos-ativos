@@ -14,6 +14,11 @@ const category = (id) => categories.find((item) => item.id === id);
 const money = (value) => new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL" }).format(value || 0);
 
 function renderMetrics() {
+  const period = data.metricsPeriod;
+  if (period) {
+    const date = (value) => value.split("-").reverse().join("/");
+    document.getElementById("metrics-period").textContent = `${date(period.dateStart)} a ${date(period.dateStop)} · todas as campanhas`;
+  }
   const metrics = data.strategyMetrics || [];
   const leadMetrics = metrics.filter((item) => item.category === "venda" || item.category === "aluguel");
   const totalSpend = metrics.reduce((sum, item) => sum + item.spend, 0);
