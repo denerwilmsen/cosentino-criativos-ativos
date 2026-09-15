@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:01:37.144524-03:00",
+  "updatedAt": "2026-09-15T14:07:38.256626-03:00",
   "total": 17,
   "creatives": [
     {
@@ -207,6 +207,14 @@
       "updatedAt": "2026-09-04T15:03:59-0400"
     }
   ],
+  "metricsScope": "active_campaigns",
+  "leadDefinition": "onsite_conversion.messaging_conversation_started_7d",
+  "activeCampaignIds": [
+    "120241628056220319",
+    "120252502295580319",
+    "120252502660150319",
+    "120252708826430319"
+  ],
   "metricsPeriod": {
     "label": "Mês atual",
     "dateStart": "2026-09-01",
@@ -215,54 +223,34 @@
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 825.63,
-      "leads": 29.0,
-      "cpl": 28.47,
-      "campaigns": 3
+      "spend": 814.49,
+      "leads": 28.0,
+      "cpl": 29.09,
+      "campaigns": 2
     },
     {
       "category": "aluguel",
-      "spend": 166.87,
+      "spend": 166.96,
       "leads": 22.0,
-      "cpl": 7.58,
+      "cpl": 7.59,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 433.76,
-      "leads": 4.0,
-      "cpl": 108.44,
-      "campaigns": 2
+      "spend": 292.86,
+      "leads": 0,
+      "cpl": null,
+      "campaigns": 1
     }
   ],
   "campaignMetrics": [
-    {
-      "campaignId": "120233031557360319",
-      "campaign": "[V4] [ENG] [RECONHECIMENTO DE MARCA]",
-      "category": "engajamento",
-      "spend": 140.9,
-      "leads": 2.0,
-      "cpl": 70.45,
-      "dateStart": "2026-09-01",
-      "dateStop": "2026-09-15"
-    },
-    {
-      "campaignId": "120236188138110319",
-      "campaign": "[V4] [LEAD] [ONGOING] [LEADSTAKER MODAL] [VENDA]",
-      "category": "venda",
-      "spend": 11.73,
-      "leads": 1.0,
-      "cpl": 11.73,
-      "dateStart": "2026-09-01",
-      "dateStop": "2026-09-15"
-    },
     {
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
       "spend": 292.86,
-      "leads": 2.0,
-      "cpl": 146.43,
+      "leads": 0,
+      "cpl": null,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-15"
     },
@@ -270,9 +258,9 @@
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 166.87,
+      "spend": 166.96,
       "leads": 22.0,
-      "cpl": 7.58,
+      "cpl": 7.59,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-15"
     },
@@ -280,9 +268,9 @@
       "campaignId": "120252502660150319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 482.05,
+      "spend": 482.18,
       "leads": 9.0,
-      "cpl": 53.56,
+      "cpl": 53.58,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-15"
     },
@@ -290,9 +278,9 @@
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 331.85,
+      "spend": 332.31,
       "leads": 19.0,
-      "cpl": 17.47,
+      "cpl": 17.49,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-15"
     }
