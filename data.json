@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T14:07:38.256626-03:00",
-  "total": 17,
+  "updatedAt": "2026-09-21T17:36:56.471933-03:00",
+  "total": 23,
   "creatives": [
     {
       "id": "120252831982690319",
@@ -75,6 +75,18 @@
       "updatedAt": "2026-09-08T13:21:09-0400"
     },
     {
+      "id": "120252502733510319",
+      "name": "AD045 [VD] ISABELA - JARDIM EUROPA",
+      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [ISABELA]",
+      "category": "venda",
+      "objective": "OUTCOME_LEADS",
+      "image": "media/120252502733510319-poster.jpg",
+      "video": "media/120252502733510319.mp4",
+      "mediaType": "video",
+      "updatedAt": "2026-09-20T12:35:52-0400"
+    },
+    {
       "id": "120252812674510319",
       "name": "AD049 [VD] LURDES - JARDIM EUROPA V",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
@@ -99,18 +111,6 @@
       "updatedAt": "2026-09-14T15:03:11-0400"
     },
     {
-      "id": "120252502733510319",
-      "name": "AD045 [VD] ISABELA - JARDIM EUROPA",
-      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
-      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [ISABELA]",
-      "category": "venda",
-      "objective": "OUTCOME_LEADS",
-      "image": "media/120252502733510319-poster.jpg",
-      "video": "media/120252502733510319.mp4",
-      "mediaType": "video",
-      "updatedAt": "2026-08-27T13:51:23-0400"
-    },
-    {
       "id": "120252502760110319",
       "name": "AD050 [VD] CRIS - JARDIM EUROPA V",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
@@ -133,6 +133,78 @@
       "video": null,
       "mediaType": "image",
       "updatedAt": "2026-08-27T13:27:25-0400"
+    },
+    {
+      "id": "120252914445150319",
+      "name": "AD058[IU] - COSENTINO",
+      "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+      "adset": "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
+      "category": "engajamento",
+      "objective": "OUTCOME_AWARENESS",
+      "image": "media/120252914445150319-poster.jpg",
+      "video": null,
+      "mediaType": "image",
+      "updatedAt": "2026-09-21T15:47:41-0400"
+    },
+    {
+      "id": "120252966723650319",
+      "name": "AD059[IU] - COSENTINO",
+      "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+      "adset": "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
+      "category": "engajamento",
+      "objective": "OUTCOME_AWARENESS",
+      "image": "media/120252966723650319-poster.jpg",
+      "video": null,
+      "mediaType": "image",
+      "updatedAt": "2026-09-21T15:46:42-0400"
+    },
+    {
+      "id": "120252966704530319",
+      "name": "AD059[IU] - COSENTINO",
+      "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
+      "category": "engajamento",
+      "objective": "OUTCOME_AWARENESS",
+      "image": "media/120252966704530319-poster.jpg",
+      "video": null,
+      "mediaType": "image",
+      "updatedAt": "2026-09-21T15:43:32-0400"
+    },
+    {
+      "id": "120252914676410319",
+      "name": "AD058[VD] - COSENTINO",
+      "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
+      "category": "engajamento",
+      "objective": "OUTCOME_AWARENESS",
+      "image": "media/120252914676410319-poster.jpg",
+      "video": null,
+      "mediaType": "image",
+      "updatedAt": "2026-09-18T09:16:24-0400"
+    },
+    {
+      "id": "120252914420020319",
+      "name": "AD057[VD] - COSENTINO",
+      "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 20KM]",
+      "category": "engajamento",
+      "objective": "OUTCOME_AWARENESS",
+      "image": "media/120252914420020319-poster.jpg",
+      "video": "media/120252914420020319.mp4",
+      "mediaType": "video",
+      "updatedAt": "2026-09-18T09:12:10-0400"
+    },
+    {
+      "id": "120252914340940319",
+      "name": "AD057[VD] - COSENTINO",
+      "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
+      "adset": "05 [META] [H/M] [24/64] [RMKT VISITANTES SITE/LP]",
+      "category": "engajamento",
+      "objective": "OUTCOME_AWARENESS",
+      "image": "media/120252914340940319-poster.jpg",
+      "video": "media/120252914340940319.mp4",
+      "mediaType": "video",
+      "updatedAt": "2026-09-18T09:11:55-0400"
     },
     {
       "id": "120252655786770319",
@@ -218,28 +290,28 @@
   "metricsPeriod": {
     "label": "Mês atual",
     "dateStart": "2026-09-01",
-    "dateStop": "2026-09-15"
+    "dateStop": "2026-09-21"
   },
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 814.49,
-      "leads": 28.0,
-      "cpl": 29.09,
+      "spend": 1336.96,
+      "leads": 77.0,
+      "cpl": 17.36,
       "campaigns": 2
     },
     {
       "category": "aluguel",
-      "spend": 166.96,
-      "leads": 22.0,
-      "cpl": 7.59,
+      "spend": 226.04,
+      "leads": 28.0,
+      "cpl": 8.07,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 292.86,
-      "leads": 0,
-      "cpl": null,
+      "spend": 415.72,
+      "leads": 2.0,
+      "cpl": 207.86,
       "campaigns": 1
     }
   ],
@@ -248,41 +320,41 @@
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
-      "spend": 292.86,
-      "leads": 0,
-      "cpl": null,
+      "spend": 415.72,
+      "leads": 2.0,
+      "cpl": 207.86,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-15"
+      "dateStop": "2026-09-21"
     },
     {
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 166.96,
-      "leads": 22.0,
-      "cpl": 7.59,
+      "spend": 226.04,
+      "leads": 28.0,
+      "cpl": 8.07,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-15"
+      "dateStop": "2026-09-21"
     },
     {
       "campaignId": "120252502660150319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 482.18,
-      "leads": 9.0,
-      "cpl": 53.58,
+      "spend": 681.76,
+      "leads": 13.0,
+      "cpl": 52.44,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-15"
+      "dateStop": "2026-09-21"
     },
     {
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 332.31,
-      "leads": 19.0,
-      "cpl": 17.49,
+      "spend": 655.2,
+      "leads": 64.0,
+      "cpl": 10.24,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-15"
+      "dateStop": "2026-09-21"
     }
   ]
 }
