@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-21T17:36:56.471933-03:00",
+  "updatedAt": "2026-09-22T08:12:47.133684-03:00",
   "total": 23,
   "creatives": [
+    {
+      "id": "120252968352180319",
+      "name": "AD060[VD] CRIS DUTRA - CHAMADA",
+      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [CRIS DUTRA]",
+      "category": "venda",
+      "objective": "OUTCOME_LEADS",
+      "image": "media/120252968352180319-poster.jpg",
+      "video": "media/120252968352180319.mp4",
+      "mediaType": "video",
+      "updatedAt": "2026-09-21T16:51:05-0400"
+    },
     {
       "id": "120252831982690319",
       "name": "AD056 [CS] 47 ANOS COSENTINO",
@@ -13,18 +25,6 @@
       "video": null,
       "mediaType": "image",
       "updatedAt": "2026-09-15T13:00:59-0400"
-    },
-    {
-      "id": "120252831982700319",
-      "name": "AD054 [VD] CRIS DUTRA - CHAMADA",
-      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
-      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [CRIS DUTRA]",
-      "category": "venda",
-      "objective": "OUTCOME_LEADS",
-      "image": "media/120252831982700319-poster.jpg",
-      "video": "media/120252831982700319.mp4",
-      "mediaType": "video",
-      "updatedAt": "2026-09-15T13:00:16-0400"
     },
     {
       "id": "120252831958900319",
@@ -290,28 +290,28 @@
   "metricsPeriod": {
     "label": "Mês atual",
     "dateStart": "2026-09-01",
-    "dateStop": "2026-09-21"
+    "dateStop": "2026-09-22"
   },
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 1336.96,
-      "leads": 77.0,
-      "cpl": 17.36,
+      "spend": 1380.63,
+      "leads": 80.0,
+      "cpl": 17.26,
       "campaigns": 2
     },
     {
       "category": "aluguel",
-      "spend": 226.04,
-      "leads": 28.0,
-      "cpl": 8.07,
+      "spend": 233.0,
+      "leads": 29.0,
+      "cpl": 8.03,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 415.72,
+      "spend": 423.67,
       "leads": 2.0,
-      "cpl": 207.86,
+      "cpl": 211.84,
       "campaigns": 1
     }
   ],
@@ -320,41 +320,41 @@
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
-      "spend": 415.72,
+      "spend": 423.67,
       "leads": 2.0,
-      "cpl": 207.86,
+      "cpl": 211.84,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-21"
+      "dateStop": "2026-09-22"
     },
     {
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 226.04,
-      "leads": 28.0,
-      "cpl": 8.07,
+      "spend": 233.0,
+      "leads": 29.0,
+      "cpl": 8.03,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-21"
+      "dateStop": "2026-09-22"
     },
     {
       "campaignId": "120252502660150319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 681.76,
+      "spend": 701.79,
       "leads": 13.0,
-      "cpl": 52.44,
+      "cpl": 53.98,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-21"
+      "dateStop": "2026-09-22"
     },
     {
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 655.2,
-      "leads": 64.0,
-      "cpl": 10.24,
+      "spend": 678.84,
+      "leads": 67.0,
+      "cpl": 10.13,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-21"
+      "dateStop": "2026-09-22"
     }
   ]
 }
