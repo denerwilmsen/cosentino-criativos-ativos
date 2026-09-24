@@ -14,21 +14,27 @@
   <main>
     <header class="topbar">
       <a class="brand" href="#top" aria-label="Cosentino, início"><strong>cosentino</strong><small>imobiliária</small></a>
-      <div class="live"><i></i> Campanhas ativas</div>
+      <div class="live"><i></i> Criativos e performance</div>
     </header>
     <section class="hero" id="top">
       <div class="hero-main">
-        <p class="eyebrow">Central de mídia <span></span> Meta Ads</p>
-        <h1>Criativos <strong>ativos.</strong></h1>
+        <p class="eyebrow">Central de mídia <span></span> <b id="platform-label">Meta Ads</b></p>
+        <h1 id="platform-title">Criativos <strong>ativos.</strong></h1>
       </div>
       <div class="hero-shapes" aria-hidden="true"><i></i><i></i><i></i></div>
     </section>
+    <nav class="platform-tabs" role="tablist" aria-label="Plataforma de mídia">
+      <button id="tab-meta" role="tab" aria-selected="true" aria-controls="panel-meta" tabindex="0">Meta Ads</button>
+      <button id="tab-google" role="tab" aria-selected="false" aria-controls="panel-google" tabindex="-1">Google Ads <span>Pesquisa + Performance Max</span></button>
+    </nav>
+    <div id="panel-meta" role="tabpanel" aria-labelledby="tab-meta">
     <section class="metrics" aria-label="Performance por estratégia">
       <div class="metrics-head">
         <div><p class="eyebrow dark">Performance por estratégia</p><h2>Investimento e geração de leads</h2><p>Leads = conversas por mensagem iniciadas. CPL = investimento ÷ conversas.</p></div>
         <span id="metrics-period">Mês atual · campanhas ativas</span>
       </div>
       <div class="metric-grid" id="metric-grid"></div>
+      <p class="freshness" id="meta-updated"></p>
     </section>
     <section class="workspace">
       <nav class="filters" aria-label="Filtrar por estratégia"></nav>
@@ -40,9 +46,36 @@
         <div class="grid" id="grid"></div>
       </div>
     </section>
-    <footer><span>Imobiliária Cosentino</span><span id="total"></span></footer>
+    </div>
+    <div id="panel-google" role="tabpanel" aria-labelledby="tab-google" hidden>
+      <section class="metrics" aria-label="Performance Google Ads">
+        <div class="metrics-head">
+          <div><p class="eyebrow dark">Google Ads · visão da conta</p><h2>Investimento e geração de leads</h2><p class="metric-explanation">Leads = Lead_Site_Form + LeadCompleto. MQLs = LeadCompleto, já incluídos nos leads.</p></div>
+          <span id="google-period">Carregando período…</span>
+        </div>
+        <div id="google-status" role="status" aria-live="polite">Carregando dados do Google Ads…</div>
+        <div class="metric-grid" id="google-metrics"></div>
+        <div class="traffic-metrics" id="google-traffic"></div>
+        <p class="freshness" id="google-updated"></p>
+      </section>
+      <section class="workspace google-workspace">
+        <nav class="filters" id="google-filters" aria-label="Filtrar recursos Google Ads"></nav>
+        <div class="content">
+          <div class="content-head">
+            <div><p class="eyebrow dark">Campanhas ativas · recursos vinculados</p><h2 id="google-section-title">Todos os recursos</h2></div>
+            <label class="search"><span aria-hidden="true">⌕</span><input id="google-search" placeholder="Buscar recurso ou texto" aria-label="Buscar recurso Google Ads"></label>
+          </div>
+          <div class="google-controls"><label for="google-campaign">Campanha</label><select id="google-campaign"><option value="all">Todas as campanhas ativas</option></select><span id="google-count" role="status" aria-live="polite"></span></div>
+          <p class="section-note" id="google-note"></p>
+          <div class="grid google-grid" id="google-grid"></div>
+        </div>
+      </section>
+    </div>
+    <footer><span>Imobiliária Cosentino</span><span id="total"></span><span id="google-total" hidden></span></footer>
   </main>
   <div class="modal" id="modal" role="dialog" aria-modal="true" hidden></div>
+  <div class="modal" id="google-modal" role="dialog" aria-modal="true" aria-label="Detalhes do recurso Google Ads" hidden></div>
   <script src="app.js"></script>
+  <script src="google.js"></script>
 </body>
 </html>
