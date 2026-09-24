@@ -63,7 +63,7 @@ function renderGrid() {
   }
   grid.innerHTML = filtered.map((creative, index) => `<button class="card" data-id="${escapeHtml(creative.id)}" style="--delay:${Math.min(index, 12) * 40}ms">
     <div class="media">${creative.image ? `<img src="${escapeHtml(creative.image)}" alt="${escapeHtml(creative.name)}" loading="lazy">` : "<span>Prévia indisponível</span>"}${creative.mediaType === "video" ? '<span class="play" aria-hidden="true">▶</span>' : ""}<span class="tag ${creative.category}">${category(creative.category).short}</span><span class="expand">↗</span></div>
-    <div class="card-copy"><h3>${escapeHtml(creative.name)}</h3><p>${escapeHtml(creative.campaign)}</p>${creativeMetrics(creative)}</div>
+    <div class="card-copy"><h3>${escapeHtml(creative.name)}</h3><p>${escapeHtml(creative.campaign)}</p></div>
   </button>`).join("");
   document.querySelectorAll("[data-id]").forEach((button) => button.addEventListener("click", () => openModal(data.creatives.find((item) => item.id === button.dataset.id))));
 }

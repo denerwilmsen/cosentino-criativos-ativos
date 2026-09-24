@@ -35,4 +35,4 @@ A galeria agrupa recursos ativos pelo nome normalizado (tipo, nome sem acentos, 
 
 ## Métricas por anúncio Meta
 
-Cartões e detalhes mostram impressões, alcance, cliques (todos), investimento, resultados, CPM, CTR (todos) e CPA no mês. Resultado WhatsApp: conversas iniciadas (`onsite_conversion.messaging_conversation_started_7d`); engajamento: `post_engagement`. CPA = gasto / resultado, CTR = cliques / impressões, CPM = gasto × 1000 / impressões. Denominador zero: travessão. Alcance consultado no período completo, sem somar dias. O resumo de leads continua com sua definição própria.
+Somente os detalhes abertos ao clicar no cartão mostram impressões, alcance, cliques (todos), investimento, resultados, CPM, CTR (todos) e CPA no mês. Resultado WhatsApp: conversas iniciadas (`onsite_conversion.messaging_conversation_started_7d`); engajamento: `post_engagement`. CPA = gasto / resultado, CTR = cliques / impressões, CPM = gasto × 1000 / impressões. Denominador zero: travessão. Alcance consultado no período completo, sem somar dias. O resumo de leads continua com sua definição própria.
