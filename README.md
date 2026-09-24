@@ -32,3 +32,7 @@ Logos removidas, incluindo variações cadastradas como imagens comuns. Textos a
 ## Nomes e duplicatas
 
 A galeria agrupa recursos ativos pelo nome normalizado (tipo, nome sem acentos, espaços normalizados e palavra Vídeo opcional). Formatos e dimensões no nome são preservados; todos os vínculos de campanha/grupo são reunidos. Recursos sem nome real não são agrupados pelo rótulo genérico. Os nomes ficam ocultos nos cartões e detalhes; recursos automáticos com nome original fornecido pela API preservam o nome. Na extração atual, as imagens automáticas do site vieram sem nome original.
+
+## Métricas por anúncio Meta
+
+Cartões e detalhes mostram impressões, alcance, cliques (todos), investimento, resultados, CPM, CTR (todos) e CPA no mês. Resultado WhatsApp: conversas iniciadas (`onsite_conversion.messaging_conversation_started_7d`); engajamento: `post_engagement`. CPA = gasto / resultado, CTR = cliques / impressões, CPM = gasto × 1000 / impressões. Denominador zero: travessão. Alcance consultado no período completo, sem somar dias. O resumo de leads continua com sua definição própria.

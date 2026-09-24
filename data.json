@@ -1,19 +1,7 @@
 {
-  "updatedAt": "2026-09-24T09:51:27.598160-03:00",
-  "total": 20,
+  "updatedAt": "2026-09-24T14:09:21.095965-03:00",
+  "total": 17,
   "creatives": [
-    {
-      "id": "120252968352180319",
-      "name": "AD060[VD] CRIS DUTRA - CHAMADA",
-      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
-      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [CRIS DUTRA]",
-      "category": "venda",
-      "objective": "OUTCOME_LEADS",
-      "image": "media/120252968352180319-poster.jpg",
-      "video": "media/120252968352180319.mp4",
-      "mediaType": "video",
-      "updatedAt": "2026-09-21T16:51:05-0400"
-    },
     {
       "id": "120252831982690319",
       "name": "AD056 [CS] 47 ANOS COSENTINO",
@@ -24,7 +12,19 @@
       "image": "media/120252831982690319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-15T13:00:59-0400"
+      "updatedAt": "2026-09-15T13:00:59-0400",
+      "metrics": {
+        "impressions": 89,
+        "reach": 76,
+        "clicks": 1,
+        "spend": 7.45,
+        "results": 0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 83.70786516853933,
+        "ctr": 1.1235955056179776,
+        "cpa": null
+      }
     },
     {
       "id": "120252831958900319",
@@ -36,7 +36,19 @@
       "image": "media/120252831958900319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-15T12:58:35-0400"
+      "updatedAt": "2026-09-15T12:58:35-0400",
+      "metrics": {
+        "impressions": 3060,
+        "reach": 1112,
+        "clicks": 23,
+        "spend": 86.94,
+        "results": 3.0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 28.41176470588235,
+        "ctr": 0.7516339869281046,
+        "cpa": 28.98
+      }
     },
     {
       "id": "120252831943200319",
@@ -48,31 +60,19 @@
       "image": "media/120252831943200319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-15T12:57:28-0400"
-    },
-    {
-      "id": "120252812781920319",
-      "name": "AD055 [VD] LURDES- CHAMADA",
-      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
-      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [LURDES]",
-      "category": "venda",
-      "objective": "OUTCOME_LEADS",
-      "image": "media/120252812781920319-poster.jpg",
-      "video": "media/120252812781920319.mp4",
-      "mediaType": "video",
-      "updatedAt": "2026-09-14T15:07:58-0400"
-    },
-    {
-      "id": "120252709083520319",
-      "name": "AD055 [VD] ISABELA - CHAMADA",
-      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
-      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [ISABELA]",
-      "category": "venda",
-      "objective": "OUTCOME_LEADS",
-      "image": "media/120252709083520319-poster.jpg",
-      "video": "media/120252709083520319.mp4",
-      "mediaType": "video",
-      "updatedAt": "2026-09-08T13:21:09-0400"
+      "updatedAt": "2026-09-15T12:57:28-0400",
+      "metrics": {
+        "impressions": 15,
+        "reach": 10,
+        "clicks": 1,
+        "spend": 0.58,
+        "results": 0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 38.666666666666664,
+        "ctr": 6.666666666666667,
+        "cpa": null
+      }
     },
     {
       "id": "120253012031530319",
@@ -84,7 +84,19 @@
       "image": "media/120253012031530319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-23T16:11:18-0400"
+      "updatedAt": "2026-09-23T16:11:18-0400",
+      "metrics": {
+        "impressions": 105,
+        "reach": 95,
+        "clicks": 3,
+        "spend": 1.9,
+        "results": 1.0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 18.095238095238095,
+        "ctr": 2.857142857142857,
+        "cpa": 1.9
+      }
     },
     {
       "id": "120252502295750319",
@@ -96,7 +108,19 @@
       "image": "media/120252502295750319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-08-27T13:27:25-0400"
+      "updatedAt": "2026-08-27T13:27:25-0400",
+      "metrics": {
+        "impressions": 12894,
+        "reach": 5847,
+        "clicks": 214,
+        "spend": 253.77,
+        "results": 30.0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 19.681247091670546,
+        "ctr": 1.6596866759733209,
+        "cpa": 8.459
+      }
     },
     {
       "id": "120252914445150319",
@@ -108,7 +132,19 @@
       "image": "media/120252914445150319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-21T15:47:41-0400"
+      "updatedAt": "2026-09-21T15:47:41-0400",
+      "metrics": {
+        "impressions": 3065,
+        "reach": 1016,
+        "clicks": 9,
+        "spend": 20.43,
+        "results": 6.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 6.66557911908646,
+        "ctr": 0.2936378466557912,
+        "cpa": 3.405
+      }
     },
     {
       "id": "120252966723650319",
@@ -120,7 +156,19 @@
       "image": "media/120252966723650319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-21T15:46:42-0400"
+      "updatedAt": "2026-09-21T15:46:42-0400",
+      "metrics": {
+        "impressions": 2189,
+        "reach": 863,
+        "clicks": 5,
+        "spend": 12.59,
+        "results": 4.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 5.751484696208315,
+        "ctr": 0.2284148012791229,
+        "cpa": 3.1475
+      }
     },
     {
       "id": "120252966704530319",
@@ -132,7 +180,19 @@
       "image": "media/120252966704530319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-21T15:43:32-0400"
+      "updatedAt": "2026-09-21T15:43:32-0400",
+      "metrics": {
+        "impressions": 4374,
+        "reach": 3478,
+        "clicks": 13,
+        "spend": 8.3,
+        "results": 11.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 1.8975765889346137,
+        "ctr": 0.2972107910379515,
+        "cpa": 0.7545454545454546
+      }
     },
     {
       "id": "120252914676410319",
@@ -144,7 +204,19 @@
       "image": "media/120252914676410319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-18T09:16:24-0400"
+      "updatedAt": "2026-09-18T09:16:24-0400",
+      "metrics": {
+        "impressions": 19066,
+        "reach": 11651,
+        "clicks": 40,
+        "spend": 35.14,
+        "results": 27.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 1.843071436064198,
+        "ctr": 0.2097975453687192,
+        "cpa": 1.3014814814814815
+      }
     },
     {
       "id": "120252914420020319",
@@ -156,7 +228,19 @@
       "image": "media/120252914420020319-poster.jpg",
       "video": "media/120252914420020319.mp4",
       "mediaType": "video",
-      "updatedAt": "2026-09-18T09:12:10-0400"
+      "updatedAt": "2026-09-18T09:12:10-0400",
+      "metrics": {
+        "impressions": 1501,
+        "reach": 1292,
+        "clicks": 3,
+        "spend": 3.58,
+        "results": 138.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 2.385076615589607,
+        "ctr": 0.19986675549633579,
+        "cpa": 0.025942028985507248
+      }
     },
     {
       "id": "120252914340940319",
@@ -168,7 +252,19 @@
       "image": "media/120252914340940319-poster.jpg",
       "video": "media/120252914340940319.mp4",
       "mediaType": "video",
-      "updatedAt": "2026-09-18T09:11:55-0400"
+      "updatedAt": "2026-09-18T09:11:55-0400",
+      "metrics": {
+        "impressions": 1272,
+        "reach": 638,
+        "clicks": 4,
+        "spend": 9.32,
+        "results": 159.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 7.327044025157233,
+        "ctr": 0.31446540880503143,
+        "cpa": 0.05861635220125786
+      }
     },
     {
       "id": "120252655786770319",
@@ -180,7 +276,19 @@
       "image": "media/120252655786770319-poster.jpg",
       "video": "media/120252655786770319.mp4",
       "mediaType": "video",
-      "updatedAt": "2026-09-04T16:01:07-0400"
+      "updatedAt": "2026-09-04T16:01:07-0400",
+      "metrics": {
+        "impressions": 2012,
+        "reach": 819,
+        "clicks": 11,
+        "spend": 15.45,
+        "results": 307.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 7.678926441351889,
+        "ctr": 0.5467196819085487,
+        "cpa": 0.0503257328990228
+      }
     },
     {
       "id": "120252655922300319",
@@ -192,7 +300,19 @@
       "image": "media/120252655922300319-poster.jpg",
       "video": "media/120252655922300319.mp4",
       "mediaType": "video",
-      "updatedAt": "2026-09-04T16:00:56-0400"
+      "updatedAt": "2026-09-04T16:00:56-0400",
+      "metrics": {
+        "impressions": 2265,
+        "reach": 1916,
+        "clicks": 7,
+        "spend": 5.11,
+        "results": 259.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 2.2560706401766004,
+        "ctr": 0.3090507726269316,
+        "cpa": 0.01972972972972973
+      }
     },
     {
       "id": "120252655822140319",
@@ -204,7 +324,19 @@
       "image": "media/120252655822140319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-04T15:56:58-0400"
+      "updatedAt": "2026-09-04T15:56:58-0400",
+      "metrics": {
+        "impressions": 29732,
+        "reach": 13309,
+        "clicks": 63,
+        "spend": 68.39,
+        "results": 3720.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 2.3002152562895195,
+        "ctr": 0.21189290999596394,
+        "cpa": 0.01838440860215054
+      }
     },
     {
       "id": "120252655856450319",
@@ -216,7 +348,19 @@
       "image": "media/120252655856450319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-04T15:55:55-0400"
+      "updatedAt": "2026-09-04T15:55:55-0400",
+      "metrics": {
+        "impressions": 5866,
+        "reach": 1147,
+        "clicks": 24,
+        "spend": 37.16,
+        "results": 832.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 6.3348107739515855,
+        "ctr": 0.40913740197749743,
+        "cpa": 0.044663461538461534
+      }
     },
     {
       "id": "120252655575970319",
@@ -228,7 +372,19 @@
       "image": "media/120252655575970319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-04T15:12:02-0400"
+      "updatedAt": "2026-09-04T15:12:02-0400",
+      "metrics": {
+        "impressions": 3537,
+        "reach": 2822,
+        "clicks": 5,
+        "spend": 7.68,
+        "results": 380.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 2.171331636980492,
+        "ctr": 0.1413627367825841,
+        "cpa": 0.020210526315789474
+      }
     },
     {
       "id": "120252655496720319",
@@ -240,7 +396,19 @@
       "image": "media/120252655496720319-poster.jpg",
       "video": null,
       "mediaType": "image",
-      "updatedAt": "2026-09-04T15:03:59-0400"
+      "updatedAt": "2026-09-04T15:03:59-0400",
+      "metrics": {
+        "impressions": 2134,
+        "reach": 823,
+        "clicks": 7,
+        "spend": 14.77,
+        "results": 298.0,
+        "resultAction": "post_engagement",
+        "resultLabel": "Engajamentos",
+        "cpm": 6.921274601686973,
+        "ctr": 0.3280224929709466,
+        "cpa": 0.04956375838926174
+      }
     }
   ],
   "metricsScope": "active_campaigns",
@@ -258,23 +426,23 @@
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 738.22,
-      "leads": 75.0,
-      "cpl": 9.84,
+      "spend": 740.82,
+      "leads": 76.0,
+      "cpl": 9.75,
       "campaigns": 1
     },
     {
       "category": "aluguel",
-      "spend": 253.17,
+      "spend": 255.67,
       "leads": 31.0,
-      "cpl": 8.17,
+      "cpl": 8.25,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 444.03,
+      "spend": 446.4,
       "leads": 2.0,
-      "cpl": 222.01,
+      "cpl": 223.2,
       "campaigns": 1
     }
   ],
@@ -283,9 +451,9 @@
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
-      "spend": 444.03,
+      "spend": 446.4,
       "leads": 2.0,
-      "cpl": 222.01,
+      "cpl": 223.2,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-24"
     },
@@ -293,9 +461,9 @@
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 253.17,
+      "spend": 255.67,
       "leads": 31.0,
-      "cpl": 8.17,
+      "cpl": 8.25,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-24"
     },
@@ -303,9 +471,9 @@
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 738.22,
-      "leads": 75.0,
-      "cpl": 9.84,
+      "spend": 740.82,
+      "leads": 76.0,
+      "cpl": 9.75,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-24"
     }

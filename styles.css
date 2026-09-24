@@ -177,3 +177,14 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 .modal-copy>.origin-tag{margin-top:12px}
 
 .format-heading{grid-column:1/-1;margin:16px 0 0;padding:12px 0;border-bottom:1px solid var(--line);color:var(--navy);font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+
+.creative-stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 10px;margin-top:18px;padding-top:15px;border-top:1px solid #d8e1e7;text-align:left}
+.creative-stats>div{min-width:0;display:flex;flex-direction:column;gap:4px}
+.creative-stats span{font-size:11px;line-height:1.35;color:#637984;white-space:normal}
+.creative-stats b{font-size:17px;color:var(--navy);font-weight:600}
+.card-copy .creative-period,.modal-copy .creative-period{font-size:10px;line-height:1.5;color:#637984;white-space:normal;overflow:visible;margin:14px 0 0}
+#modal .modal-copy h2{font-size:clamp(24px,3vw,42px);margin-bottom:20px}
+#modal .creative-stats{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:800px){#modal .creative-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+@media(max-width:800px){#modal .modal-card{display:block}#modal .modal-media{min-height:0}#modal .modal-media img,#modal .modal-media video{display:block;height:auto;max-height:70vh}#modal .modal-copy{background:#fff}}

@@ -41,6 +41,17 @@ function renderFilters() {
   document.querySelectorAll("[data-category]").forEach((button) => button.addEventListener("click", () => { active = button.dataset.category; render(); }));
 }
 
+function creativeMetrics(creative, detail = false) {
+  const m = creative.metrics;
+  if (!m) return '<p class="creative-period">Métricas indisponíveis</p>';
+  const num = v => v == null ? '—' : new Intl.NumberFormat('pt-BR',{maximumFractionDigits:2}).format(v);
+  const cash = v => v == null ? '—' : money(v);
+  const rows = [['Impressões',num(m.impressions)],['Alcance',num(m.reach)],['Cliques (todos)',num(m.clicks)],
+    [m.resultLabel,num(m.results)],['Investimento',cash(m.spend)],['CPM',cash(m.cpm)],['CTR (todos)',m.ctr == null ? '—' : `${num(m.ctr)}%`],['CPA',cash(m.cpa)]];
+  const date = v => v.split('-').reverse().join('/');
+  return `<div class="creative-stats">${rows.map(([label,value]) => `<div><span>${escapeHtml(label)}</span><b>${value}</b></div>`).join('')}</div><p class="creative-period">${date(data.metricsPeriod.dateStart)} a ${date(data.metricsPeriod.dateStop)} · por anúncio${detail ? '<br>CPA = investimento ÷ resultados. CTR = cliques (todos) ÷ impressões. CPM = investimento por mil impressões.' : ''}</p>`;
+}
+
 function renderGrid() {
   const term = query.toLocaleLowerCase("pt-BR").trim();
   const filtered = data.creatives.filter((item) => (active === "todos" || item.category === active) && (!term || `${item.name} ${item.campaign} ${item.adset}`.toLocaleLowerCase("pt-BR").includes(term)));
@@ -52,7 +63,7 @@ function renderGrid() {
   }
   grid.innerHTML = filtered.map((creative, index) => `<button class="card" data-id="${escapeHtml(creative.id)}" style="--delay:${Math.min(index, 12) * 40}ms">
     <div class="media">${creative.image ? `<img src="${escapeHtml(creative.image)}" alt="${escapeHtml(creative.name)}" loading="lazy">` : "<span>Prévia indisponível</span>"}${creative.mediaType === "video" ? '<span class="play" aria-hidden="true">▶</span>' : ""}<span class="tag ${creative.category}">${category(creative.category).short}</span><span class="expand">↗</span></div>
-    <div class="card-copy"><h3>${escapeHtml(creative.name)}</h3><p>${escapeHtml(creative.campaign)}</p></div>
+    <div class="card-copy"><h3>${escapeHtml(creative.name)}</h3><p>${escapeHtml(creative.campaign)}</p>${creativeMetrics(creative)}</div>
   </button>`).join("");
   document.querySelectorAll("[data-id]").forEach((button) => button.addEventListener("click", () => openModal(data.creatives.find((item) => item.id === button.dataset.id))));
 }
@@ -62,7 +73,7 @@ function render() { renderMetrics(); renderFilters(); renderGrid(); document.get
 function openModal(creative) {
   const modal = document.getElementById("modal");
   const media = creative.video ? `<video controls autoplay playsinline preload="metadata" poster="${escapeHtml(creative.image || "")}"><source src="${escapeHtml(creative.video)}" type="video/mp4">Seu navegador não suporta este vídeo.</video>` : creative.image ? `<img src="${escapeHtml(creative.image)}" alt="${escapeHtml(creative.name)}">` : "<span>Prévia indisponível</span>";
-  modal.innerHTML = `<div class="modal-card"><button class="close" aria-label="Fechar">×</button><div class="modal-media">${media}</div><div class="modal-copy"><span class="tag ${creative.category}">${category(creative.category).label}</span><h2>${escapeHtml(creative.name)}</h2><dl><div><dt>Campanha</dt><dd>${escapeHtml(creative.campaign)}</dd></div><div><dt>Conjunto</dt><dd>${escapeHtml(creative.adset)}</dd></div></dl></div></div>`;
+  modal.innerHTML = `<div class="modal-card"><button class="close" aria-label="Fechar">×</button><div class="modal-media">${media}</div><div class="modal-copy"><span class="tag ${creative.category}">${category(creative.category).label}</span><h2>${escapeHtml(creative.name)}</h2>${creativeMetrics(creative,true)}<dl><div><dt>Campanha</dt><dd>${escapeHtml(creative.campaign)}</dd></div><div><dt>Conjunto</dt><dd>${escapeHtml(creative.adset)}</dd></div></dl></div></div>`;
   modal.hidden = false;
   modal.querySelector(".close").focus();
 }
