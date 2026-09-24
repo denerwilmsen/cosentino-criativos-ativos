@@ -1139,51 +1139,6 @@
         ]
       },
       {
-        "id": "243964898297",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172132_1.png",
-        "text": "",
-        "image": "media/google-243964898297.jpg",
-        "width": "456",
-        "height": "456",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "LOGO"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ]
-      },
-      {
         "id": "244029635689",
         "kind": "image",
         "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14.png",
@@ -1573,27 +1528,6 @@
             "group": "Grupo de recursos 1",
             "groupId": "6582300439",
             "role": "TALL_PORTRAIT_MARKETING_IMAGE"
-          }
-        ]
-      },
-      {
-        "id": "242732092463",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-02 174935_1.png",
-        "text": "",
-        "image": "media/google-242732092463.jpg",
-        "width": "519",
-        "height": "514",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "SQUARE_MARKETING_IMAGE"
           }
         ]
       },
@@ -2082,143 +2016,6 @@
         ]
       },
       {
-        "id": "244029996250",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172144_1.png",
-        "text": "",
-        "image": "media/google-244029996250.jpg",
-        "width": "493",
-        "height": "493",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "LOGO"
-          }
-        ]
-      },
-      {
-        "id": "244077606780",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172500_1.png",
-        "text": "",
-        "image": "media/google-244077606780.jpg",
-        "width": "564",
-        "height": "564",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "LOGO"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ]
-      },
-      {
-        "id": "377541137581",
-        "kind": "image",
-        "name": "Recurso visual",
-        "text": "",
-        "image": "media/google-377541137581.jpg",
-        "width": "32",
-        "height": "32",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "LOGO"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
-          }
-        ]
-      },
-      {
-        "id": "243964958078",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172251_4:1.png",
-        "text": "",
-        "image": "media/google-243964958078.jpg",
-        "width": "1608",
-        "height": "402",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "LANDSCAPE_LOGO"
-          }
-        ]
-      },
-      {
-        "id": "244030234468",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172500_4.png",
-        "text": "",
-        "image": "media/google-244030234468.jpg",
-        "width": "641",
-        "height": "160",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "LANDSCAPE_LOGO"
-          }
-        ]
-      },
-      {
         "id": "258697935382",
         "kind": "text",
         "name": "Bairros Planejados",
@@ -2451,35 +2248,6 @@
         ]
       },
       {
-        "id": "245955396321",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172132_1:1.png",
-        "text": "",
-        "image": "media/google-245955396321.jpg",
-        "width": "456",
-        "height": "456",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
-          }
-        ]
-      },
-      {
         "id": "243964575392",
         "kind": "image",
         "name": "A1 1080x1080 - Jardim das Américas_2025-06-05_17-15-14_1.9108.png",
@@ -2630,35 +2398,6 @@
           {
             "campaignId": "22661530554",
             "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ]
-      },
-      {
-        "id": "258696864709",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-05 172251_1:1.png",
-        "text": "",
-        "image": "media/google-258696864709.jpg",
-        "width": "420",
-        "height": "420",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
             "channel": "SEARCH",
             "group": "Recursos da campanha",
             "groupId": "",
@@ -3213,43 +2952,6 @@
             "group": "Core - Aluguel",
             "groupId": "186057437733",
             "role": "AD_IMAGE"
-          }
-        ]
-      },
-      {
-        "id": "294037978696",
-        "kind": "image",
-        "name": "Captura de tela 2025-06-02 174935_1:1.png",
-        "text": "",
-        "image": "media/google-294037978696.jpg",
-        "width": "514",
-        "height": "514",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Recurso da conta",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recurso da conta",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recurso da conta",
-            "groupId": "",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -4788,10 +4490,6 @@
             "role": "AD_IMAGE"
           },
           {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          },
-          {
             "assetId": "242803276006",
             "role": "DESCRIPTION_PREFIX"
           }
@@ -4874,10 +4572,6 @@
           {
             "assetId": "245916037759",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -4910,10 +4604,6 @@
           {
             "assetId": "259799362140",
             "role": "CALLOUT"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           },
           {
             "assetId": "293963132054",
@@ -4970,10 +4660,6 @@
           {
             "assetId": "376056896581",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5002,10 +4688,6 @@
           {
             "assetId": "242843430090",
             "role": "BUSINESS_NAME"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5054,10 +4736,6 @@
           {
             "assetId": "258700200509",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5094,10 +4772,6 @@
           {
             "assetId": "245916037759",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5134,10 +4808,6 @@
           {
             "assetId": "245916037759",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5174,10 +4844,6 @@
           {
             "assetId": "245916037759",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5236,10 +4902,6 @@
             "role": "AD_IMAGE"
           },
           {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          },
-          {
             "assetId": "242803276006",
             "role": "DESCRIPTION_PREFIX"
           }
@@ -5278,10 +4940,6 @@
           {
             "assetId": "245916037759",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5326,10 +4984,6 @@
           {
             "assetId": "351439470743",
             "role": "SITELINK"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           },
           {
             "assetId": "260769246357",
@@ -5396,10 +5050,6 @@
             "role": "CALLOUT"
           },
           {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          },
-          {
             "assetId": "242803276024",
             "role": "HEADLINE_AS_SITELINK_POSITION_ONE"
           },
@@ -5419,10 +5069,6 @@
         "impressions": 1,
         "period": "month",
         "components": [
-          {
-            "assetId": "377541137581",
-            "role": "UNKNOWN"
-          },
           {
             "assetId": "245844105701",
             "role": "HEADLINE_1"
@@ -5458,10 +5104,6 @@
           {
             "assetId": "259799362149",
             "role": "CALLOUT"
-          },
-          {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5475,10 +5117,6 @@
         "impressions": 1,
         "period": "month",
         "components": [
-          {
-            "assetId": "377541137581",
-            "role": "UNKNOWN"
-          },
           {
             "assetId": "242803276024",
             "role": "HEADLINE_1"
@@ -5506,10 +5144,6 @@
           {
             "assetId": "351439470743",
             "role": "SITELINK"
-          },
-          {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
           },
           {
             "assetId": "243853793140",
@@ -5600,10 +5234,6 @@
         "period": "month",
         "components": [
           {
-            "assetId": "245955396321",
-            "role": "UNKNOWN"
-          },
-          {
             "assetId": "242803276000",
             "role": "HEADLINE_1"
           },
@@ -5622,10 +5252,6 @@
           {
             "assetId": "258700200509",
             "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245955396321",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5688,10 +5314,6 @@
             "role": "CALLOUT"
           },
           {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          },
-          {
             "assetId": "242803276021",
             "role": "HEADLINE_AS_SITELINK_POSITION_ONE"
           }
@@ -5744,10 +5366,6 @@
             "role": "AD_IMAGE"
           },
           {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          },
-          {
             "assetId": "242803276024",
             "role": "DESCRIPTION_PREFIX"
           },
@@ -5794,10 +5412,6 @@
           {
             "assetId": "287942219833",
             "role": "SITELINK"
-          },
-          {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
           },
           {
             "assetId": "243853786162",
@@ -5858,10 +5472,6 @@
           {
             "assetId": "259799362152",
             "role": "CALLOUT"
-          },
-          {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
           }
         ]
       },
@@ -5875,10 +5485,6 @@
         "impressions": 1,
         "period": "month",
         "components": [
-          {
-            "assetId": "377541137581",
-            "role": "UNKNOWN"
-          },
           {
             "assetId": "242803276024",
             "role": "HEADLINE_1"
@@ -5916,10 +5522,6 @@
             "role": "CALLOUT"
           },
           {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          },
-          {
             "assetId": "243853786162",
             "role": "HEADLINE_AS_SITELINK_POSITION_ONE"
           },
@@ -5928,1058 +5530,12 @@
             "role": "HEADLINE_AS_SITELINK_POSITION_TWO"
           }
         ]
-      },
-      {
-        "id": "pmax-6582300439-TEXT-1",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 1,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276024",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276018",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "242803276000",
-            "role": "HEADLINE_3"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "259793708790",
-            "role": "DESCRIPTION_2"
-          },
-          {
-            "assetId": "259798355043",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "287942219833",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "259799362146",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "259799362149",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "242803276009",
-            "role": "HEADLINE_AS_SITELINK_POSITION_ONE"
-          },
-          {
-            "assetId": "242803276051",
-            "role": "HEADLINE_AS_SITELINK_POSITION_TWO"
-          },
-          {
-            "assetId": "242803276036",
-            "role": "DESCRIPTION_LINE_HEADLINE_AS_SITELINK_POSITION_ONE"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-TEXT-2",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 2,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276000",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276006",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "258697935382",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "259798355043",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "287942219833",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "242803276009",
-            "role": "HEADLINE_AS_SITELINK_POSITION_ONE"
-          },
-          {
-            "assetId": "242803275997",
-            "role": "HEADLINE_AS_SITELINK_POSITION_TWO"
-          },
-          {
-            "assetId": "242803276036",
-            "role": "DESCRIPTION_LINE_HEADLINE_AS_SITELINK_POSITION_ONE"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_LINE_HEADLINE_AS_SITELINK_POSITION_TWO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-TEXT-3",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 3,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276024",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "298895094280",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "287049927734",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_2"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-TEXT-4",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 4,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276042",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276000",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "258697935382",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "259798355043",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "287942219833",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "242803276051",
-            "role": "HEADLINE_AS_SITELINK_POSITION_ONE"
-          },
-          {
-            "assetId": "242803276024",
-            "role": "HEADLINE_AS_SITELINK_POSITION_TWO"
-          },
-          {
-            "assetId": "242803276036",
-            "role": "DESCRIPTION_LINE_HEADLINE_AS_SITELINK_POSITION_ONE"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_LINE_HEADLINE_AS_SITELINK_POSITION_TWO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-TEXT-5",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 5,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276000",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "259799362146",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "259799362149",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "259799362152",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "242803276021",
-            "role": "DESCRIPTION_PREFIX"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-TEXT-1",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 1,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "298895094280",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "258701806334",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-TEXT-2",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 2,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "298895094280",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "258701806334",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "287049927734",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_2"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-TEXT-3",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 3,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "298895094280",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "258701806334",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "259793708790",
-            "role": "DESCRIPTION_2"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-TEXT-4",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 4,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276000",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "258701806334",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-TEXT-5",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 5,
-        "impressions": null,
-        "category": "TEXT",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "377541137581",
-            "role": "UNKNOWN"
-          },
-          {
-            "assetId": "298895094280",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "258701806334",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "259793708790",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "259793714355",
-            "role": "DESCRIPTION_2"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          },
-          {
-            "assetId": "259799362140",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "259799362143",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "259799362146",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "259799362149",
-            "role": "CALLOUT"
-          },
-          {
-            "assetId": "377541137581",
-            "role": "BUSINESS_LOGO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-IMAGE-1",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 1,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "244030031881",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276030",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          },
-          {
-            "assetId": "287942219833",
-            "role": "SITELINK"
-          },
-          {
-            "assetId": "294819175819",
-            "role": "SITELINK"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-IMAGE-2",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 2,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "244030031881",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "assetId": "244029996250",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276012",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-IMAGE-3",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 3,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "243964513484",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276000",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-IMAGE-4",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 4,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION"
-          },
-          {
-            "assetId": "243964550531",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-IMAGE-5",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 5,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE"
-          },
-          {
-            "assetId": "242803276036",
-            "role": "DESCRIPTION"
-          },
-          {
-            "assetId": "243964550531",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-IMAGE-1",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 1,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "245916037759",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-IMAGE-2",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 2,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "244077086247",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276021",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-IMAGE-3",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 3,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "243964513484",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "258701806334",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-IMAGE-4",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 4,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242843430090",
-            "role": "UNKNOWN"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276009",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "244029647572",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-IMAGE-5",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 5,
-        "impressions": null,
-        "category": "IMAGE",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242843430090",
-            "role": "UNKNOWN"
-          },
-          {
-            "assetId": "258702452096",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "assetId": "244077606780",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276021",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276039",
-            "role": "DESCRIPTION_1"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-VIDEO-1",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 1,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803275997",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-VIDEO-2",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 2,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276006",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-VIDEO-3",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 3,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242843430090",
-            "role": "UNKNOWN"
-          },
-          {
-            "assetId": "244029996250",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803275997",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          },
-          {
-            "assetId": "287942219833",
-            "role": "SITELINK"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-VIDEO-4",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 4,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "LONG_HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6582300439-VIDEO-5",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 1",
-        "rank": 5,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "LONG_HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "243964694501",
-            "role": "YOU_TUBE_VIDEO"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-VIDEO-1",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 1,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276012",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-VIDEO-2",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 2,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276006",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-VIDEO-3",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 3,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242843430090",
-            "role": "UNKNOWN"
-          },
-          {
-            "assetId": "244029996250",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242803276006",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "243964694501",
-            "role": "YOU_TUBE_VIDEO"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-VIDEO-4",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 4,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "LONG_HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "242842618431",
-            "role": "YOU_TUBE_VIDEO"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
-      },
-      {
-        "id": "pmax-6593783305-VIDEO-5",
-        "channel": "PERFORMANCE_MAX",
-        "campaignId": "22634966392",
-        "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-        "group": "Grupo de recursos 2",
-        "rank": 5,
-        "impressions": null,
-        "category": "VIDEO",
-        "period": "google_report",
-        "components": [
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "LONG_HEADLINE"
-          },
-          {
-            "assetId": "242803276033",
-            "role": "DESCRIPTION"
-          },
-          {
-            "assetId": "243964898297",
-            "role": "LOGO"
-          },
-          {
-            "assetId": "243964694501",
-            "role": "YOU_TUBE_VIDEO"
-          },
-          {
-            "assetId": "242843430090",
-            "role": "BUSINESS_NAME"
-          }
-        ]
       }
     ],
     "warnings": [],
     "rsaAds": 7,
     "combinationNotes": {
-      "search": "Até 5 combinações por anúncio, ordenadas por impressões no período.",
+      "search": "Até 5 combinações por anúncio, ordenadas por impressões no período. O Google não fornece cliques por combinação. Logos omitidas da prévia.",
       "pmax": "Até 5 combinações por grupo e formato, conforme seleção do Google. O relatório não informa período nem conversões por combinação."
     }
   }

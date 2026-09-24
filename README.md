@@ -19,8 +19,12 @@ Aba independente, com o mesmo padrão visual da Meta, filtros por campanha e tip
 - Métricas: todas as campanhas da conta, início do mês até a atualização (dia parcial).
 - Leads = `Lead_Site_Form` + `LeadCompleto`. MQL = `LeadCompleto`, já incluído nos leads. CPL = investimento / leads.
 - Investimento, leads, CPL, MQLs, impressões, cliques, CTR e CPC.
-- Galeria de imagens, logos, vídeos do YouTube, títulos e descrições vinculados às campanhas ativas. Vínculo não garante veiculação no período.
+- Galeria de imagens e vídeos do YouTube vinculados às campanhas ativas; títulos e descrições somente nas combinações. Vínculo não garante veiculação no período.
 - Pesquisa: até cinco combinações por anúncio, ordenadas por impressões no período.
-- Performance Max: até cinco combinações por grupo e categoria retornada pelo Google. Esse relatório não informa período nem conversões por combinação; não representa um ranking por CPL.
+- Performance Max: combinações fora do ranking, pois o relatório não fornece impressões e cliques por combinação.
 - As prévias representam os recursos da combinação; não são capturas exatas da aparência do anúncio.
 - Datas de atualização independentes por plataforma. Nenhuma credencial é publicada.
+
+## Refinamento da galeria em 24/09
+
+Logos removidas, incluindo variações cadastradas como imagens comuns. Textos aparecem somente nas combinações, sem cartões isolados. O ranking mostra combinações de Pesquisa com impressões positivas, ordenadas por impressões; cliques por combinação não são suportados pela API. Performance Max fica fora desse ranking por não fornecer essas métricas.

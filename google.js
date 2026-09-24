@@ -6,7 +6,7 @@
   const money = v => v == null ? '—' : new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL'}).format(v);
   const channels = {SEARCH:'Pesquisa',PERFORMANCE_MAX:'Performance Max'};
   const roleName = role => ({HEADLINE:'Título',LONG_HEADLINE:'Título longo',DESCRIPTION:'Descrição',BUSINESS_NAME:'Nome da empresa',LOGO:'Logo',LANDSCAPE_LOGO:'Logo horizontal',MARKETING_IMAGE:'Imagem',SQUARE_MARKETING_IMAGE:'Imagem quadrada',PORTRAIT_MARKETING_IMAGE:'Imagem vertical',YOUTUBE_VIDEO:'Vídeo',SITELINK:'Sitelink',CALLOUT:'Destaque',IMAGE:'Imagem'}[role] || (/^HEADLINE_\d$/.test(role) ? `Título ${role.slice(-1)}` : /^DESCRIPTION_\d$/.test(role) ? `Descrição ${role.slice(-1)}` : role.startsWith('HEADLINE') ? 'Título complementar' : role.startsWith('DESCRIPTION') ? 'Descrição complementar' : 'Recurso complementar'));
-  const filters = [{id:'all',label:'Todos os recursos'},{id:'image',label:'Imagens e logos'},{id:'video',label:'Vídeos'},{id:'text',label:'Títulos e descrições'},{id:'combination',label:'Combinações'}];
+  const filters = [{id:'all',label:'Imagens e vídeos'},{id:'image',label:'Imagens'},{id:'video',label:'Vídeos'},{id:'combination',label:'Combinações'}];
   let google, assets = new Map(), kind = 'all', campaign = 'all', search = '', opener;
   const youtube = id => typeof id === 'string' && /^[\w-]{11}$/.test(id);
   const localImage = path => typeof path === 'string' && /^media\/[\w.-]+$/.test(path);
@@ -54,10 +54,10 @@
     $('google-updated').textContent = `Atualizado em ${timestamp} · horário de Brasília · dia atual parcial. ${number(m.siteForm)} Lead_Site_Form + ${number(m.mql)} LeadCompleto.`;
     $('google-status').textContent = google.warnings?.length ? 'Algumas imagens não estão disponíveis nesta atualização.' : '';
     $('google-status').hidden = !google.warnings?.length;
-    $('google-total').textContent = `${google.campaigns.filter(c => c.status === 'ENABLED').length} campanhas ativas · ${google.assets.filter(a => a.active).length} recursos vinculados`;
+    $('google-total').textContent = `${google.campaigns.filter(c => c.status === 'ENABLED').length} campanhas ativas · ${activeAssets().length} recursos vinculados`;
   }
-  const activeAssets = () => google.assets.filter(a => a.active && (campaign === 'all' || a.placements.some(p => p.campaignId === campaign)));
-  const combinations = () => google.combinations.filter(c => campaign === 'all' || c.campaignId === campaign);
+  const activeAssets = () => google.assets.filter(a => a.active && ['image','video'].includes(a.kind) && (campaign === 'all' || a.placements.some(p => p.campaignId === campaign)));
+  const combinations = () => google.combinations.filter(c => c.impressions > 0 && (campaign === 'all' || c.campaignId === campaign)).sort((a,b) => b.impressions - a.impressions);
   const parts = combo => combo.components.map(c => ({...c,asset:assets.get(c.assetId)})).filter(c => c.asset);
   const comboText = (combo,head) => parts(combo).filter(c => head ? /^(HEADLINE(_\d)?|LONG_HEADLINE)$/.test(c.role) : /^DESCRIPTION(_\d)?$/.test(c.role)).map(c => c.asset.text).filter(Boolean).join(head ? ' | ' : ' ');
 
@@ -82,7 +82,7 @@
     $('google-filters').innerHTML = filters.map(f => `<button class="${kind === f.id ? 'active' : ''}" data-google-filter="${f.id}" aria-pressed="${kind === f.id}"><span>${f.label}</span><b>${f.id === 'combination' ? combinations().length : base.filter(a => f.id === 'all' || a.kind === f.id).length}</b></button>`).join('');
     $('google-filters').querySelectorAll('button').forEach(b => b.addEventListener('click',() => { kind = b.dataset.googleFilter; render(); }));
     $('google-section-title').textContent = filters.find(f => f.id === kind).label;
-    $('google-note').textContent = kind === 'combination' ? 'Pesquisa: mais exibidas no período, até 5 por anúncio. Performance Max: seleção do Google por grupo e formato, sem período informado. Prévias ilustrativas; a aparência varia por posicionamento.' : 'Recursos vinculados a campanhas ativas. Um recurso pode ser utilizado em várias campanhas; o vínculo não garante veiculação no período.';
+    $('google-note').textContent = kind === 'combination' ? 'Pesquisa: combinações ordenadas por impressões no período, até 5 por anúncio. Cliques por combinação não são disponibilizados pelo Google. Performance Max não entra neste ranking por não informar essas métricas. Logos omitidas; prévias ilustrativas.' : 'Recursos vinculados a campanhas ativas. Um recurso pode ser utilizado em várias campanhas; o vínculo não garante veiculação no período.';
     const term = search.toLocaleLowerCase('pt-BR').trim();
     let rows = kind === 'combination' ? combinations() : base.filter(a => kind === 'all' || kind === a.kind);
     rows = rows.filter(r => JSON.stringify(kind === 'combination' ? [r.campaign,r.group,parts(r).map(c => c.asset.text)] : [r.name,r.text,r.placements]).toLocaleLowerCase('pt-BR').includes(term));
@@ -92,7 +92,7 @@
     $('google-grid').innerHTML = rows.length ? rows.map((r,i) => {
       if (kind === 'combination') return `<button class="card combo-card" data-google-combo="${esc(r.id)}" style="--delay:${Math.min(i,8)*30}ms">${preview(r)}<div class="card-copy"><span class="tag">${channels[r.channel] || 'Google Ads'}</span><h3>${r.impressions == null ? 'Seleção do Google' : `${number(r.impressions)} impressões`}</h3><p>${esc(r.group)}</p><small>${esc(r.campaign)}</small></div></button>`;
       const p = r.placements.find(p => campaign === 'all' || p.campaignId === campaign);
-      const label = r.kind === 'video' ? 'Vídeo' : r.kind === 'image' ? 'Imagem / logo' : roleName(p?.role || '');
+      const label = r.kind === 'video' ? 'Vídeo' : r.kind === 'image' ? 'Imagem' : roleName(p?.role || '');
       return `<button class="card" data-google-asset="${esc(r.id)}" style="--delay:${Math.min(i,8)*30}ms"><div class="media google-media">${visual(r)}<span class="tag">${esc(label)}</span><span class="expand" aria-hidden="true">↗</span></div><div class="card-copy"><h3>${esc(r.name)}</h3><p>${esc(p?.campaign || '')}</p><small>${esc(p?.group || '')}</small></div></button>`;
     }).join('') : '<div class="empty"><h3>Nenhum resultado</h3><p>Não há recursos disponíveis para estes filtros.</p></div>';
     $('google-grid').querySelectorAll('[data-google-asset]').forEach(b => b.addEventListener('click',() => openAsset(assets.get(b.dataset.googleAsset),b)));
@@ -107,7 +107,7 @@
   function openAsset(a,button) {
     const video = a.kind === 'video' && youtube(a.youtubeId);
     const media = video ? `<iframe src="https://www.youtube-nocookie.com/embed/${a.youtubeId}" title="${esc(a.name)}" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>` : visual(a,true);
-    showModal(`<div class="modal-media google-modal-media">${media}</div><div class="modal-copy"><span class="tag">${a.kind === 'image' ? 'Imagem / logo' : a.kind === 'video' ? 'Vídeo' : 'Texto'}</span><h2>${esc(a.name)}</h2>${video ? `<a class="external-link" href="https://www.youtube.com/watch?v=${a.youtubeId}" target="_blank" rel="noopener noreferrer">Assistir no YouTube ↗</a><p class="section-note">Se a reprodução incorporada estiver indisponível, abra o vídeo no YouTube.</p>` : ''}<dl>${a.placements.map(p => `<div><dt>${esc(roleName(p.role))} · ${esc(channels[p.channel] || p.channel)}</dt><dd>${esc(p.campaign)}<br>${esc(p.group)}</dd></div>`).join('')}</dl></div>`,button);
+    showModal(`<div class="modal-media google-modal-media">${media}</div><div class="modal-copy"><span class="tag">${a.kind === 'image' ? 'Imagem' : a.kind === 'video' ? 'Vídeo' : 'Texto'}</span><h2>${esc(a.name)}</h2>${video ? `<a class="external-link" href="https://www.youtube.com/watch?v=${a.youtubeId}" target="_blank" rel="noopener noreferrer">Assistir no YouTube ↗</a><p class="section-note">Se a reprodução incorporada estiver indisponível, abra o vídeo no YouTube.</p>` : ''}<dl>${a.placements.map(p => `<div><dt>${esc(roleName(p.role))} · ${esc(channels[p.channel] || p.channel)}</dt><dd>${esc(p.campaign)}<br>${esc(p.group)}</dd></div>`).join('')}</dl></div>`,button);
   }
   function openCombination(c,button) {
     const content = parts(c).map(p => `<div class="combination-part"><dt>${esc(roleName(p.role))}</dt><dd>${p.asset.kind === 'text' ? esc(p.asset.text) : p.asset.kind === 'image' && localImage(p.asset.image) ? `<img src="${esc(p.asset.image)}" alt="${esc(p.asset.name)}" loading="lazy">` : youtube(p.asset.youtubeId) ? `<a class="external-link" href="https://www.youtube.com/watch?v=${p.asset.youtubeId}" target="_blank" rel="noopener noreferrer">${esc(p.asset.name)} · YouTube ↗</a>` : esc(p.asset.name)}</dd></div>`).join('');
