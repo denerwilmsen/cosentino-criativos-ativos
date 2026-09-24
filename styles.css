@@ -1,4 +1,4 @@
-﻿:root{--blue:#1571a3;--blue-soft:#6c8291;--navy:#0f2f3e;--ink:#313132;--paper:#fff;--mist:#f2f5f6;--line:#dce3e6;--muted:#65747c}
+:root{--blue:#1571a3;--blue-soft:#6c8291;--navy:#0f2f3e;--ink:#313132;--paper:#fff;--mist:#f2f5f6;--line:#dce3e6;--muted:#65747c}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
 html{scroll-behavior:smooth}
@@ -172,3 +172,8 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 @media(max-width:800px){.platform-tabs{gap:30px}.platform-tabs button span{display:none}.google-controls select{min-width:0;width:100%}.google-controls>span{margin-left:0}.google-modal-card{grid-template-columns:1fr}.google-modal-media{min-height:260px}.google-modal-card .modal-copy{padding-top:36px}.combination-grid{grid-template-columns:1fr}.traffic-metrics>div{padding:15px 12px}}
 @media(max-width:520px){.google-grid .text-preview{padding:18px 12px 48px}.google-grid .text-preview p{font-size:14px!important}.google-grid .text-preview>span{font-size:25px;margin-bottom:12px}.google-grid .text-preview small{display:none}.google-grid .card-copy small{font-size:10px}.google-modal-media .text-preview{padding:40px 24px}}
 
+
+.origin-tag{display:block;width:fit-content;max-width:100%;padding:6px 9px;margin:0 0 12px;border:1px solid #b9d8e5;background:#edf6fa;color:var(--navy);font-size:11px;font-weight:600;line-height:1.4;text-align:left}
+.modal-copy>.origin-tag{margin-top:12px}
+
+.format-heading{grid-column:1/-1;margin:16px 0 0;padding:12px 0;border-bottom:1px solid var(--line);color:var(--navy);font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}

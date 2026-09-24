@@ -58,6 +58,7 @@
   }
   const galleryAssets = () => GoogleGallery.group(google.assets);
   const activeAssets = () => galleryAssets().filter(a => campaign === 'all' || a.placements.some(p => p.campaignId === campaign));
+  const originTag = a => a.source === 'AUTOMATICALLY_CREATED' && a.kind === 'image' ? '<span class="origin-tag">Extraído automaticamente do site</span>' : '';
   const visibleName = a => a.showName ? a.name : a.kind === 'video' ? 'Vídeo da campanha' : 'Imagem da campanha';
   const combinations = () => google.combinations.filter(c => c.impressions > 0 && (campaign === 'all' || c.campaignId === campaign)).sort((a,b) => b.impressions - a.impressions);
   const parts = combo => combo.components.map(c => ({...c,asset:assets.get(c.assetId)})).filter(c => c.asset);
@@ -78,6 +79,12 @@
       img.hidden = true; const note = document.createElement('span'); note.className = 'unavailable'; note.textContent = 'Prévia indisponível'; img.after(note);
     },{once:true}));
   }
+  function formatGroup(a) {
+    if (a.kind === 'video') return {order:3,label:'Vídeos'};
+    const ratio = Number(a.width) / Number(a.height);
+    if (!Number.isFinite(ratio)) return {order:4,label:'Outras imagens'};
+    return ratio > 1.05 ? {order:0,label:'Imagens horizontais'} : ratio < 0.95 ? {order:2,label:'Imagens verticais'} : {order:1,label:'Imagens quadradas'};
+  }
   function render() {
     if (!google) return;
     const base = activeAssets();
@@ -88,14 +95,15 @@
     const term = search.toLocaleLowerCase('pt-BR').trim();
     let rows = kind === 'combination' ? combinations() : base.filter(a => kind === 'all' || kind === a.kind);
     rows = rows.filter(r => JSON.stringify(kind === 'combination' ? [r.campaign,r.group,parts(r).map(c => c.asset.text)] : [r.name,r.text,r.placements]).toLocaleLowerCase('pt-BR').includes(term));
-    if (kind !== 'combination') rows.sort((a,b) => ['image','video','text'].indexOf(a.kind) - ['image','video','text'].indexOf(b.kind) || a.name.localeCompare(b.name,'pt-BR'));
+    if (kind !== 'combination') rows.sort((a,b) => formatGroup(a).order - formatGroup(b).order || (Number(b.width)/Number(b.height) || 0) - (Number(a.width)/Number(a.height) || 0) || a.name.localeCompare(b.name,'pt-BR'));
     $('google-count').textContent = `${rows.length} ${kind === 'combination' ? 'combinações' : 'recursos'}`;
     $('google-grid').classList.toggle('combination-grid',kind === 'combination');
     $('google-grid').innerHTML = rows.length ? rows.map((r,i) => {
       if (kind === 'combination') return `<button class="card combo-card" data-google-combo="${esc(r.id)}" style="--delay:${Math.min(i,8)*30}ms">${preview(r)}<div class="card-copy"><span class="tag">${channels[r.channel] || 'Google Ads'}</span><h3>${r.impressions == null ? 'Seleção do Google' : `${number(r.impressions)} impressões`}</h3><p>${esc(r.group)}</p><small>${esc(r.campaign)}</small></div></button>`;
       const p = r.placements.find(p => campaign === 'all' || p.campaignId === campaign);
       const label = r.kind === 'video' ? 'Vídeo' : r.kind === 'image' ? 'Imagem' : roleName(p?.role || '');
-      return `<button class="card" data-google-asset="${esc(r.id)}" style="--delay:${Math.min(i,8)*30}ms"><div class="media google-media">${visual(r)}<span class="tag">${esc(label)}</span><span class="expand" aria-hidden="true">↗</span></div><div class="card-copy">${r.showName ? `<h3>${esc(r.name)}</h3>` : ''}<p>${esc(p?.campaign || '')}</p><small>${esc(p?.group || '')}</small></div></button>`;
+      const section = i === 0 || formatGroup(rows[i-1]).order !== formatGroup(r).order ? `<h3 class="format-heading">${formatGroup(r).label}</h3>` : '';
+      return `${section}<button class="card" data-google-asset="${esc(r.id)}" style="--delay:${Math.min(i,8)*30}ms"><div class="media google-media">${visual(r)}<span class="tag">${esc(label)}</span><span class="expand" aria-hidden="true">↗</span></div><div class="card-copy">${originTag(r)}${r.showName ? `<h3>${esc(r.name)}</h3>` : ''}<p>${esc(p?.campaign || '')}</p><small>${esc(p?.group || '')}</small></div></button>`;
     }).join('') : '<div class="empty"><h3>Nenhum resultado</h3><p>Não há recursos disponíveis para estes filtros.</p></div>';
     $('google-grid').querySelectorAll('[data-google-asset]').forEach(b => b.addEventListener('click',() => openAsset(galleryAssets().find(a => a.id === b.dataset.googleAsset),b)));
     $('google-grid').querySelectorAll('[data-google-combo]').forEach(b => b.addEventListener('click',() => openCombination(google.combinations.find(c => c.id === b.dataset.googleCombo),b)));
@@ -109,7 +117,7 @@
   function openAsset(a,button) {
     const video = a.kind === 'video' && youtube(a.youtubeId);
     const media = video ? `<iframe src="https://www.youtube-nocookie.com/embed/${a.youtubeId}" title="${esc(visibleName(a))}" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>` : visual(a,true);
-    showModal(`<div class="modal-media google-modal-media">${media}</div><div class="modal-copy"><span class="tag">${a.kind === 'image' ? 'Imagem' : a.kind === 'video' ? 'Vídeo' : 'Texto'}</span>${a.showName ? `<h2>${esc(a.name)}</h2>` : ''}${video ? `<a class="external-link" href="https://www.youtube.com/watch?v=${a.youtubeId}" target="_blank" rel="noopener noreferrer">Assistir no YouTube ↗</a><p class="section-note">Se a reprodução incorporada estiver indisponível, abra o vídeo no YouTube.</p>` : ''}<dl>${a.placements.map(p => `<div><dt>${esc(roleName(p.role))} · ${esc(channels[p.channel] || p.channel)}</dt><dd>${esc(p.campaign)}<br>${esc(p.group)}</dd></div>`).join('')}</dl></div>`,button);
+    showModal(`<div class="modal-media google-modal-media">${media}</div><div class="modal-copy"><span class="tag">${a.kind === 'image' ? 'Imagem' : a.kind === 'video' ? 'Vídeo' : 'Texto'}</span>${originTag(a)}${a.showName ? `<h2>${esc(a.name)}</h2>` : ''}${video ? `<a class="external-link" href="https://www.youtube.com/watch?v=${a.youtubeId}" target="_blank" rel="noopener noreferrer">Assistir no YouTube ↗</a><p class="section-note">Se a reprodução incorporada estiver indisponível, abra o vídeo no YouTube.</p>` : ''}<dl>${a.placements.map(p => `<div><dt>${esc(roleName(p.role))} · ${esc(channels[p.channel] || p.channel)}</dt><dd>${esc(p.campaign)}<br>${esc(p.group)}</dd></div>`).join('')}</dl></div>`,button);
   }
   function openCombination(c,button) {
     const content = parts(c).map(p => `<div class="combination-part"><dt>${esc(roleName(p.role))}</dt><dd>${p.asset.kind === 'text' ? esc(p.asset.text) : p.asset.kind === 'image' && localImage(p.asset.image) ? `<img src="${esc(p.asset.image)}" alt="${esc(p.asset.name)}" loading="lazy">` : youtube(p.asset.youtubeId) ? `<a class="external-link" href="https://www.youtube.com/watch?v=${p.asset.youtubeId}" target="_blank" rel="noopener noreferrer">${esc(p.asset.name)} · YouTube ↗</a>` : esc(p.asset.name)}</dd></div>`).join('');
