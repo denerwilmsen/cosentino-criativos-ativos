@@ -28,3 +28,7 @@ Aba independente, com o mesmo padrão visual da Meta, filtros por campanha e tip
 ## Refinamento da galeria em 24/09
 
 Logos removidas, incluindo variações cadastradas como imagens comuns. Textos aparecem somente nas combinações, sem cartões isolados. O ranking mostra combinações de Pesquisa com impressões positivas, ordenadas por impressões; cliques por combinação não são suportados pela API. Performance Max fica fora desse ranking por não fornecer essas métricas.
+
+## Nomes e duplicatas
+
+A galeria agrupa recursos ativos pelo nome normalizado (tipo, nome sem acentos, espaços normalizados e palavra Vídeo opcional). Formatos e dimensões no nome são preservados; todos os vínculos de campanha/grupo são reunidos. Recursos sem nome real não são agrupados pelo rótulo genérico. Os nomes ficam ocultos nos cartões e detalhes; recursos automáticos com nome original fornecido pela API preservam o nome. Na extração atual, as imagens automáticas do site vieram sem nome original.

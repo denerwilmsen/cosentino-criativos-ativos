@@ -377,7 +377,9 @@
             "groupId": "6582300439",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "242803275997",
@@ -398,7 +400,9 @@
             "groupId": "6582300439",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276000",
@@ -427,7 +431,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276003",
@@ -456,7 +462,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276006",
@@ -485,7 +493,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276009",
@@ -514,7 +524,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276012",
@@ -543,7 +555,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276015",
@@ -564,7 +578,9 @@
             "groupId": "6582300439",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276018",
@@ -585,7 +601,9 @@
             "groupId": "6582300439",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276021",
@@ -614,7 +632,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276024",
@@ -643,7 +663,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276027",
@@ -672,7 +694,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276030",
@@ -701,7 +725,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276033",
@@ -746,7 +772,9 @@
             "groupId": "6593783305",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276036",
@@ -775,7 +803,9 @@
             "groupId": "6593783305",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276039",
@@ -804,7 +834,9 @@
             "groupId": "6593783305",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276042",
@@ -833,7 +865,9 @@
             "groupId": "6593783305",
             "role": "LONG_HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276045",
@@ -862,7 +896,9 @@
             "groupId": "6593783305",
             "role": "LONG_HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276048",
@@ -891,7 +927,9 @@
             "groupId": "6593783305",
             "role": "LONG_HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242803276051",
@@ -912,7 +950,9 @@
             "groupId": "6582300439",
             "role": "LONG_HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242842618431",
@@ -933,7 +973,9 @@
             "groupId": "6582300439",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964513019",
@@ -954,7 +996,9 @@
             "groupId": "6582300439",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964513484",
@@ -983,7 +1027,9 @@
             "groupId": "6593783305",
             "role": "MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964550531",
@@ -1012,7 +1058,9 @@
             "groupId": "6593783305",
             "role": "SQUARE_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964593785",
@@ -1049,7 +1097,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964694501",
@@ -1078,7 +1128,9 @@
             "groupId": "6593783305",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964733045",
@@ -1107,7 +1159,9 @@
             "groupId": "6593783305",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "243964750334",
@@ -1136,7 +1190,9 @@
             "groupId": "6593783305",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244029635689",
@@ -1165,7 +1221,9 @@
             "groupId": "6593783305",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244029647572",
@@ -1194,7 +1252,9 @@
             "groupId": "6593783305",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244029666139",
@@ -1223,7 +1283,9 @@
             "groupId": "6593783305",
             "role": "MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244029744052",
@@ -1268,7 +1330,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244030031881",
@@ -1305,7 +1369,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244077086247",
@@ -1350,7 +1416,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244077087279",
@@ -1371,7 +1439,9 @@
             "groupId": "6582300439",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244077113409",
@@ -1392,7 +1462,9 @@
             "groupId": "6582300439",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "259681033799",
@@ -1421,7 +1493,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259681039739",
@@ -1450,7 +1524,9 @@
             "groupId": "6593783305",
             "role": "LONG_HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259793714355",
@@ -1479,7 +1555,9 @@
             "groupId": "6593783305",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "423765707878",
@@ -1508,7 +1586,9 @@
             "groupId": "6593783305",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "423765824539",
@@ -1529,7 +1609,9 @@
             "groupId": "6582300439",
             "role": "TALL_PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "245915218177",
@@ -1566,7 +1648,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "245916037759",
@@ -1595,7 +1679,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258701806328",
@@ -1616,7 +1702,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "258701806331",
@@ -1637,7 +1725,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "258701806334",
@@ -1658,7 +1748,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "258701806337",
@@ -1679,7 +1771,9 @@
             "groupId": "6593783305",
             "role": "LONG_HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "258702452096",
@@ -1708,7 +1802,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258702506741",
@@ -1737,7 +1833,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258702507053",
@@ -1758,7 +1856,9 @@
             "groupId": "6593783305",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258702512975",
@@ -1779,7 +1879,9 @@
             "groupId": "6593783305",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258702514529",
@@ -1808,7 +1910,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258702877889",
@@ -1837,7 +1941,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258777645901",
@@ -1858,7 +1964,9 @@
             "groupId": "6593783305",
             "role": "PORTRAIT_MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258813758022",
@@ -1879,7 +1987,9 @@
             "groupId": "6593783305",
             "role": "MARKETING_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258813870504",
@@ -1908,7 +2018,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "298895094280",
@@ -1929,7 +2041,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "298895094283",
@@ -1950,7 +2064,9 @@
             "groupId": "6593783305",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "421393320998",
@@ -1971,7 +2087,9 @@
             "groupId": "6593783305",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "421497127840",
@@ -1992,7 +2110,9 @@
             "groupId": "6593783305",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "421576316997",
@@ -2013,7 +2133,9 @@
             "groupId": "6593783305",
             "role": "YOUTUBE_VIDEO"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258697935382",
@@ -2042,7 +2164,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "258735306333",
@@ -2071,7 +2195,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259797658614",
@@ -2092,7 +2218,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259798355043",
@@ -2121,7 +2249,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "287942219833",
@@ -2150,7 +2280,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "294819175819",
@@ -2187,7 +2319,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "351439538114",
@@ -2208,7 +2342,9 @@
             "groupId": "",
             "role": "SITELINK"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "242843430090",
@@ -2245,7 +2381,9 @@
             "groupId": "",
             "role": "BUSINESS_NAME"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "243964575392",
@@ -2274,7 +2412,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "244077039072",
@@ -2303,7 +2443,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "245843818334",
@@ -2324,7 +2466,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "245843889128",
@@ -2353,7 +2497,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "245915960632",
@@ -2382,7 +2528,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "245955289386",
@@ -2403,7 +2551,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258700200509",
@@ -2424,7 +2574,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "258702500948",
@@ -2445,7 +2597,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "287140610763",
@@ -2466,7 +2620,9 @@
             "groupId": "",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "ADVERTISER",
+        "showName": false
       },
       {
         "id": "313132895867",
@@ -2495,7 +2651,9 @@
             "groupId": "180543226043",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "313132895873",
@@ -2516,7 +2674,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "313132895897",
@@ -2545,7 +2705,9 @@
             "groupId": "180543226043",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "313132895900",
@@ -2574,7 +2736,9 @@
             "groupId": "180543226043",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "315934190791",
@@ -2603,7 +2767,9 @@
             "groupId": "180543226043",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "316436666880",
@@ -2624,7 +2790,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "328914170641",
@@ -2645,7 +2813,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "331898042649",
@@ -2666,7 +2836,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "339423160194",
@@ -2703,7 +2875,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "352090650004",
@@ -2740,7 +2914,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "352090650007",
@@ -2761,7 +2937,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "361202261008",
@@ -2782,7 +2960,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "376056896581",
@@ -2803,7 +2983,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "384759093315",
@@ -2824,7 +3006,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "399017957839",
@@ -2845,7 +3029,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "399243739444",
@@ -2874,7 +3060,9 @@
             "groupId": "180543226043",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "409136745324",
@@ -2895,7 +3083,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "412434052896",
@@ -2916,7 +3106,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "414891176552",
@@ -2953,7 +3145,9 @@
             "groupId": "186057437733",
             "role": "AD_IMAGE"
           }
-        ]
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
       },
       {
         "id": "text-89ccca38d83ee8c326b9",
@@ -2996,7 +3190,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-85d36511b8f6a9d0ddeb",
@@ -3031,7 +3227,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-4937a7f0046605554736",
@@ -3066,7 +3264,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-4064bc3c91e43a68a38e",
@@ -3101,7 +3301,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-c064f721eb1d331a2969",
@@ -3136,7 +3338,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-9b5a06facebfa83df17f",
@@ -3171,7 +3375,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-37658c39ccb6d4359ff5",
@@ -3214,7 +3420,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-3f368145993733d28415",
@@ -3257,7 +3465,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-d922710529f23da869b4",
@@ -3300,7 +3510,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-97df48f80126ea05701c",
@@ -3335,7 +3547,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-90cba20c368b59d176c5",
@@ -3370,7 +3584,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-64c5c42d52b3bc4ebb9a",
@@ -3405,7 +3621,9 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-f89a083983410f704574",
@@ -3440,7 +3658,9 @@
             "groupId": "180543226043",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-f33885df8a81a14dd7fa",
@@ -3467,7 +3687,9 @@
             "groupId": "180543226043",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-9f617e00491bdfc58e36",
@@ -3502,7 +3724,9 @@
             "groupId": "180543226043",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-1daa7f66869701a7dbfb",
@@ -3545,7 +3769,9 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-df049be203acac3386c3",
@@ -3564,7 +3790,9 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-1fb4a1cc2ef1dc973728",
@@ -3583,7 +3811,9 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-38fddfaca4e3c3e6ec23",
@@ -3602,7 +3832,9 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-b3fbc81f18574e0f0a3a",
@@ -3621,7 +3853,9 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-947a02d44cdbb559322f",
@@ -3640,7 +3874,9 @@
             "groupId": "179050482901",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-4b3a8c88f8cf286b3adf",
@@ -3667,7 +3903,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-ffb18927e4c7c91c21b6",
@@ -3686,7 +3924,9 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-0710474afd329c1cfc71",
@@ -3705,7 +3945,9 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-9b8a030903e0a89a690d",
@@ -3724,7 +3966,9 @@
             "groupId": "179050482901",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-3ca52fed3e73909c4614",
@@ -3743,7 +3987,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-108deab3891ab761f888",
@@ -3762,7 +4008,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-5f893064beb366d1afbc",
@@ -3781,7 +4029,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-f04adaca4294e747ce9d",
@@ -3800,7 +4050,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-281ca4319f9d1dc38a56",
@@ -3819,7 +4071,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-90bc3cf90a1c01f854d2",
@@ -3838,7 +4092,9 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-e2b3d9ff78e3539efee3",
@@ -3857,7 +4113,9 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-a096c4fd907e06db71ec",
@@ -3876,7 +4134,9 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "text-09aefa23d922f722f39e",
@@ -3895,7 +4155,9 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ]
+        ],
+        "source": null,
+        "showName": false
       },
       {
         "id": "287141095002",
@@ -3907,7 +4169,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "287143269138",
@@ -3919,7 +4183,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "287143269135",
@@ -3931,7 +4197,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "293963132054",
@@ -3943,7 +4211,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "293963132063",
@@ -3955,7 +4225,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "287049927734",
@@ -3967,7 +4239,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "286674160380",
@@ -3979,7 +4253,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "293963132045",
@@ -3991,7 +4267,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "245844105710",
@@ -4003,7 +4281,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "243853786162",
@@ -4015,7 +4295,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259799362140",
@@ -4027,7 +4309,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259799362143",
@@ -4039,7 +4323,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259799362146",
@@ -4051,7 +4337,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259799362149",
@@ -4063,7 +4351,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259799362152",
@@ -4075,7 +4365,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "258622738913",
@@ -4087,7 +4379,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "293963132039",
@@ -4099,7 +4393,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "293963132057",
@@ -4111,7 +4407,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "259793708790",
@@ -4123,7 +4421,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "260769246354",
@@ -4135,7 +4435,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "351439470743",
@@ -4147,7 +4449,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "260769246357",
@@ -4159,7 +4463,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "245844105701",
@@ -4171,7 +4477,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "243853793140",
@@ -4183,7 +4491,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "245844105704",
@@ -4195,7 +4505,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       },
       {
         "id": "245844105707",
@@ -4207,7 +4519,9 @@
         "height": null,
         "youtubeId": null,
         "active": false,
-        "placements": []
+        "placements": [],
+        "source": null,
+        "showName": false
       }
     ],
     "combinations": [
