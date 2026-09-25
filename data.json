@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-25T09:38:06.396281-03:00",
-  "total": 21,
+  "updatedAt": "2026-09-25T09:44:06.450651-03:00",
+  "total": 20,
   "creatives": [
     {
       "id": "120253030152110319",
@@ -38,41 +38,15 @@
       "mediaType": "video",
       "updatedAt": "2026-09-24T16:31:47-0400",
       "metrics": {
-        "impressions": 120,
+        "impressions": 122,
         "reach": 92,
         "clicks": 0,
-        "spend": 3.8,
+        "spend": 3.86,
         "results": 0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 31.666666666666668,
+        "cpm": 31.639344262295083,
         "ctr": 0.0,
-        "cpa": null
-      }
-    },
-    {
-      "id": "120253030121960319",
-      "name": "AD044 [VD] LURDES - JARDIM EUROPA",
-      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
-      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [LURDES]",
-      "category": "venda",
-      "objective": "OUTCOME_LEADS",
-      "image": "media/120253030121960319-poster.jpg",
-      "video": null,
-      "mediaType": "video",
-      "videoExternal": "https://www.facebook.com/watch/?v=3055743154762260",
-      "mediaResolutionVersion": 2,
-      "updatedAt": "2026-09-24T16:30:04-0400",
-      "metrics": {
-        "impressions": 177,
-        "reach": 173,
-        "clicks": 7,
-        "spend": 3.56,
-        "results": 0,
-        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
-        "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 20.112994350282484,
-        "ctr": 3.9548022598870056,
         "cpa": null
       }
     },
@@ -195,7 +169,7 @@
       "updatedAt": "2026-09-23T16:11:18-0400",
       "metrics": {
         "impressions": 262,
-        "reach": 225,
+        "reach": 229,
         "clicks": 5,
         "spend": 4.99,
         "results": 1.0,
@@ -220,16 +194,16 @@
       "mediaResolutionVersion": 2,
       "updatedAt": "2026-08-27T13:27:25-0400",
       "metrics": {
-        "impressions": 13074,
+        "impressions": 13075,
         "reach": 5907,
         "clicks": 219,
-        "spend": 256.91,
+        "spend": 256.92,
         "results": 30.0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 19.65045127734435,
-        "ctr": 1.6750803120697568,
-        "cpa": 8.563666666666668
+        "cpm": 19.649713193116636,
+        "ctr": 1.6749521988527725,
+        "cpa": 8.564
       }
     },
     {
@@ -298,15 +272,15 @@
       "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-21T15:43:32-0400",
       "metrics": {
-        "impressions": 6364,
+        "impressions": 6365,
         "reach": 4888,
         "clicks": 16,
         "spend": 13.14,
         "results": 13.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 2.0647391577624137,
-        "ctr": 0.251414204902577,
+        "cpm": 2.0644147682639433,
+        "ctr": 0.2513747054202671,
         "cpa": 1.0107692307692309
       }
     },
@@ -472,16 +446,16 @@
       "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-04T15:55:55-0400",
       "metrics": {
-        "impressions": 5945,
+        "impressions": 5950,
         "reach": 1152,
         "clicks": 24,
-        "spend": 37.96,
+        "spend": 38.01,
         "results": 841.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 6.3851976450798995,
-        "ctr": 0.40370058873002523,
-        "cpa": 0.04513674197384067
+        "cpm": 6.3882352941176475,
+        "ctr": 0.40336134453781514,
+        "cpa": 0.0451961950059453
       }
     },
     {
@@ -498,16 +472,16 @@
       "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-04T15:12:02-0400",
       "metrics": {
-        "impressions": 3669,
-        "reach": 2887,
+        "impressions": 3676,
+        "reach": 2899,
         "clicks": 5,
-        "spend": 8.0,
+        "spend": 8.01,
         "results": 398.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 2.1804306350504223,
-        "ctr": 0.1362769146906514,
-        "cpa": 0.020100502512562814
+        "cpm": 2.178998911860718,
+        "ctr": 0.13601741022850924,
+        "cpa": 0.020125628140703518
       }
     },
     {
@@ -552,23 +526,23 @@
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 757.78,
+      "spend": 757.85,
       "leads": 76.0,
       "cpl": 9.97,
       "campaigns": 1
     },
     {
       "category": "aluguel",
-      "spend": 261.9,
+      "spend": 261.91,
       "leads": 31.0,
       "cpl": 8.45,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 455.73,
+      "spend": 455.79,
       "leads": 2.0,
-      "cpl": 227.87,
+      "cpl": 227.9,
       "campaigns": 1
     }
   ],
@@ -577,9 +551,9 @@
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
-      "spend": 455.73,
+      "spend": 455.79,
       "leads": 2.0,
-      "cpl": 227.87,
+      "cpl": 227.9,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-25"
     },
@@ -587,7 +561,7 @@
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 261.9,
+      "spend": 261.91,
       "leads": 31.0,
       "cpl": 8.45,
       "dateStart": "2026-09-01",
@@ -597,7 +571,7 @@
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 757.78,
+      "spend": 757.85,
       "leads": 76.0,
       "cpl": 9.97,
       "dateStart": "2026-09-01",
@@ -605,7 +579,7 @@
     }
   ],
   "google": {
-    "updatedAt": "2026-09-25T09:31:12.437485-03:00",
+    "updatedAt": "2026-09-25T09:44:11.536916-03:00",
     "source": "Google Ads API",
     "status": "ok",
     "metricsPeriod": {
@@ -615,15 +589,15 @@
     "metricsScope": "all_campaigns",
     "leadDefinition": "Lead_Site_Form + LeadCompleto",
     "metrics": {
-      "spend": 1997.646242,
-      "impressions": 12207,
-      "clicks": 1863,
+      "spend": 2000.676661,
+      "impressions": 12219,
+      "clicks": 1866,
       "leads": 75.0,
       "mql": 24.0,
       "siteForm": 51.0,
-      "cpl": 26.63528322666667,
-      "cpc": 1.0722738819108963,
-      "ctr": 15.261735070041778
+      "cpl": 26.675688813333334,
+      "cpc": 1.0721739876741694,
+      "ctr": 15.271298796955561
     },
     "campaigns": [
       {
