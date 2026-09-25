@@ -188,3 +188,5 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 @media(max-width:800px){#modal .creative-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
 
 @media(max-width:800px){#modal .modal-card{display:block}#modal .modal-media{min-height:0}#modal .modal-media img,#modal .modal-media video{display:block;height:auto;max-height:70vh}#modal .modal-copy{background:#fff}}
+
+.external-video{width:100%;display:flex;flex-direction:column;align-items:center;gap:14px;padding:20px}.external-video img{max-height:58vh!important;height:auto!important}.external-video a{background:#fff;color:var(--navy);padding:12px 18px;font-weight:700;text-align:center}.external-video p{color:#fff;font-size:12px;line-height:1.5;text-align:center;max-width:340px}

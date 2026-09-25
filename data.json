@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:30:54.835762-03:00",
+  "updatedAt": "2026-09-25T09:38:06.396281-03:00",
   "total": 21,
   "creatives": [
     {
@@ -59,7 +59,9 @@
       "objective": "OUTCOME_LEADS",
       "image": "media/120253030121960319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=3055743154762260",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-24T16:30:04-0400",
       "metrics": {
         "impressions": 177,
@@ -83,17 +85,19 @@
       "objective": "OUTCOME_LEADS",
       "image": "media/120253030121970319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=28409742988684371",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-24T16:28:21-0400",
       "metrics": {
-        "impressions": 239,
+        "impressions": 240,
         "reach": 229,
         "clicks": 0,
-        "spend": 3.68,
+        "spend": 3.7,
         "results": 0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 15.397489539748953,
+        "cpm": 15.416666666666666,
         "ctr": 0.0,
         "cpa": null
       }
@@ -108,6 +112,8 @@
       "image": "media/120252831982690319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-15T13:00:59-0400",
       "metrics": {
         "impressions": 122,
@@ -132,6 +138,8 @@
       "image": "media/120252831958900319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-15T12:58:35-0400",
       "metrics": {
         "impressions": 3072,
@@ -156,6 +164,8 @@
       "image": "media/120252831943200319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-15T12:57:28-0400",
       "metrics": {
         "impressions": 63,
@@ -179,19 +189,21 @@
       "objective": "OUTCOME_LEADS",
       "image": "media/120253012031530319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=1629186031875207",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-23T16:11:18-0400",
       "metrics": {
-        "impressions": 257,
+        "impressions": 262,
         "reach": 225,
         "clicks": 5,
-        "spend": 4.91,
+        "spend": 4.99,
         "results": 1.0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 19.105058365758754,
-        "ctr": 1.9455252918287937,
-        "cpa": 4.91
+        "cpm": 19.045801526717558,
+        "ctr": 1.9083969465648856,
+        "cpa": 4.99
       }
     },
     {
@@ -203,19 +215,21 @@
       "objective": "OUTCOME_LEADS",
       "image": "media/120252502295750319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=1042304401985643",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-08-27T13:27:25-0400",
       "metrics": {
-        "impressions": 13072,
+        "impressions": 13074,
         "reach": 5907,
         "clicks": 219,
-        "spend": 256.81,
+        "spend": 256.91,
         "results": 30.0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 19.645807833537333,
-        "ctr": 1.6753365973072216,
-        "cpa": 8.560333333333334
+        "cpm": 19.65045127734435,
+        "ctr": 1.6750803120697568,
+        "cpa": 8.563666666666668
       }
     },
     {
@@ -228,6 +242,8 @@
       "image": "media/120252914445150319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-21T15:47:41-0400",
       "metrics": {
         "impressions": 3065,
@@ -252,6 +268,8 @@
       "image": "media/120252966723650319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-21T15:46:42-0400",
       "metrics": {
         "impressions": 2393,
@@ -276,17 +294,19 @@
       "image": "media/120252966704530319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-21T15:43:32-0400",
       "metrics": {
-        "impressions": 6363,
+        "impressions": 6364,
         "reach": 4888,
         "clicks": 16,
         "spend": 13.14,
         "results": 13.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 2.065063649222065,
-        "ctr": 0.25145371680025147,
+        "cpm": 2.0647391577624137,
+        "ctr": 0.251414204902577,
         "cpa": 1.0107692307692309
       }
     },
@@ -300,6 +320,8 @@
       "image": "media/120252914676410319-poster.jpg",
       "video": null,
       "mediaType": "image",
+      "videoExternal": null,
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-18T09:16:24-0400",
       "metrics": {
         "impressions": 19066,
@@ -378,12 +400,12 @@
         "reach": 861,
         "clicks": 11,
         "spend": 16.88,
-        "results": 335.0,
+        "results": 336.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
         "cpm": 7.7716390423572745,
         "ctr": 0.5064456721915286,
-        "cpa": 0.05038805970149254
+        "cpa": 0.050238095238095234
       }
     },
     {
@@ -419,7 +441,9 @@
       "objective": "OUTCOME_AWARENESS",
       "image": "media/120252655822140319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=1613169973603128",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-04T15:56:58-0400",
       "metrics": {
         "impressions": 29732,
@@ -443,19 +467,21 @@
       "objective": "OUTCOME_AWARENESS",
       "image": "media/120252655856450319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=4731697810399417",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-04T15:55:55-0400",
       "metrics": {
-        "impressions": 5940,
+        "impressions": 5945,
         "reach": 1152,
         "clicks": 24,
-        "spend": 37.89,
+        "spend": 37.96,
         "results": 841.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 6.378787878787879,
-        "ctr": 0.40404040404040403,
-        "cpa": 0.045053507728894174
+        "cpm": 6.3851976450798995,
+        "ctr": 0.40370058873002523,
+        "cpa": 0.04513674197384067
       }
     },
     {
@@ -467,19 +493,21 @@
       "objective": "OUTCOME_AWARENESS",
       "image": "media/120252655575970319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=1066948172639924",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-04T15:12:02-0400",
       "metrics": {
-        "impressions": 3664,
-        "reach": 2884,
+        "impressions": 3669,
+        "reach": 2887,
         "clicks": 5,
-        "spend": 7.99,
-        "results": 396.0,
+        "spend": 8.0,
+        "results": 398.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 2.1806768558951966,
-        "ctr": 0.13646288209606988,
-        "cpa": 0.02017676767676768
+        "cpm": 2.1804306350504223,
+        "ctr": 0.1362769146906514,
+        "cpa": 0.020100502512562814
       }
     },
     {
@@ -491,7 +519,9 @@
       "objective": "OUTCOME_AWARENESS",
       "image": "media/120252655496720319-poster.jpg",
       "video": null,
-      "mediaType": "image",
+      "mediaType": "video",
+      "videoExternal": "https://www.facebook.com/watch/?v=2517234428786522",
+      "mediaResolutionVersion": 2,
       "updatedAt": "2026-09-04T15:03:59-0400",
       "metrics": {
         "impressions": 2138,
@@ -522,23 +552,23 @@
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 757.76,
+      "spend": 757.78,
       "leads": 76.0,
       "cpl": 9.97,
       "campaigns": 1
     },
     {
       "category": "aluguel",
-      "spend": 261.8,
+      "spend": 261.9,
       "leads": 31.0,
       "cpl": 8.45,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 455.65,
+      "spend": 455.73,
       "leads": 2.0,
-      "cpl": 227.82,
+      "cpl": 227.87,
       "campaigns": 1
     }
   ],
@@ -547,9 +577,9 @@
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
-      "spend": 455.65,
+      "spend": 455.73,
       "leads": 2.0,
-      "cpl": 227.82,
+      "cpl": 227.87,
       "dateStart": "2026-09-01",
       "dateStop": "2026-09-25"
     },
@@ -557,7 +587,7 @@
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 261.8,
+      "spend": 261.9,
       "leads": 31.0,
       "cpl": 8.45,
       "dateStart": "2026-09-01",
@@ -567,7 +597,7 @@
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 757.76,
+      "spend": 757.78,
       "leads": 76.0,
       "cpl": 9.97,
       "dateStart": "2026-09-01",

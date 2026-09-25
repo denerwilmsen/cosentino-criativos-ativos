@@ -72,7 +72,8 @@ function render() { renderMetrics(); renderFilters(); renderGrid(); document.get
 
 function openModal(creative) {
   const modal = document.getElementById("modal");
-  const media = creative.video ? `<video controls autoplay playsinline preload="metadata" poster="${escapeHtml(creative.image || "")}"><source src="${escapeHtml(creative.video)}" type="video/mp4">Seu navegador não suporta este vídeo.</video>` : creative.image ? `<img src="${escapeHtml(creative.image)}" alt="${escapeHtml(creative.name)}">` : "<span>Prévia indisponível</span>";
+  const external = /^https:\/\/www\.facebook\.com\/watch\/\?v=\d+$/.test(creative.videoExternal || '') ? creative.videoExternal : null;
+  const media = external ? `<div class="external-video"><img src="${escapeHtml(creative.image || '')}" alt="Prévia do vídeo"><a href="${escapeHtml(external)}" target="_blank" rel="noopener noreferrer">Assistir vídeo no Facebook ↗</a><p>Este vídeo está vinculado a uma publicação da página. Abra a publicação para reproduzir.</p></div>` : creative.video ? `<video controls autoplay playsinline preload="metadata" poster="${escapeHtml(creative.image || "")}"><source src="${escapeHtml(creative.video)}" type="video/mp4">Seu navegador não suporta este vídeo.</video>` : creative.image ? `<img src="${escapeHtml(creative.image)}" alt="${escapeHtml(creative.name)}">` : "<span>Prévia indisponível</span>";
   modal.innerHTML = `<div class="modal-card"><button class="close" aria-label="Fechar">×</button><div class="modal-media">${media}</div><div class="modal-copy"><span class="tag ${creative.category}">${category(creative.category).label}</span><h2>${escapeHtml(creative.name)}</h2>${creativeMetrics(creative,true)}<dl><div><dt>Campanha</dt><dd>${escapeHtml(creative.campaign)}</dd></div><div><dt>Conjunto</dt><dd>${escapeHtml(creative.adset)}</dd></div></dl></div></div>`;
   modal.hidden = false;
   modal.querySelector(".close").focus();

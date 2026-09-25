@@ -36,3 +36,7 @@ A galeria agrupa recursos ativos pelo nome normalizado (tipo, nome sem acentos, 
 ## Métricas por anúncio Meta
 
 Somente os detalhes abertos ao clicar no cartão mostram impressões, alcance, cliques (todos), investimento, resultados, CPM, CTR (todos) e CPA no mês. Resultado WhatsApp: conversas iniciadas (`onsite_conversion.messaging_conversation_started_7d`); engajamento: `post_engagement`. CPA = gasto / resultado, CTR = cliques / impressões, CPM = gasto × 1000 / impressões. Denominador zero: travessão. Alcance consultado no período completo, sem somar dias. O resumo de leads continua com sua definição própria.
+
+## Vídeos vinculados a publicações
+
+Criativos com video_id são classificados como vídeo. Quando a Meta não disponibiliza o arquivo com a credencial configurada, os detalhes exibem a prévia e um botão para assistir no Facebook; a reprodução pode depender do acesso à publicação. Nenhuma credencial é incluída nesses links.
