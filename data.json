@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-09-24T14:09:21.095965-03:00",
-  "total": 17,
+  "updatedAt": "2026-09-25T09:30:54.835762-03:00",
+  "total": 21,
   "creatives": [
+    {
+      "id": "120253030152110319",
+      "name": "AD045 [VD] ISABELA - JARDIM EUROPA",
+      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [ISABELA]",
+      "category": "venda",
+      "objective": "OUTCOME_LEADS",
+      "image": "media/120253030152110319-poster.jpg",
+      "video": "media/120253030152110319.mp4",
+      "mediaType": "video",
+      "updatedAt": "2026-09-24T16:33:15-0400",
+      "metrics": {
+        "impressions": 233,
+        "reach": 205,
+        "clicks": 2,
+        "spend": 4.89,
+        "results": 0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 20.987124463519315,
+        "ctr": 0.8583690987124464,
+        "cpa": null
+      }
+    },
+    {
+      "id": "120253030140130319",
+      "name": "AD050 [VD] CRIS - JARDIM EUROPA V",
+      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [CRIS DUTRA]",
+      "category": "venda",
+      "objective": "OUTCOME_LEADS",
+      "image": "media/120253030140130319-poster.jpg",
+      "video": "media/120253030140130319.mp4",
+      "mediaType": "video",
+      "updatedAt": "2026-09-24T16:31:47-0400",
+      "metrics": {
+        "impressions": 120,
+        "reach": 92,
+        "clicks": 0,
+        "spend": 3.8,
+        "results": 0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 31.666666666666668,
+        "ctr": 0.0,
+        "cpa": null
+      }
+    },
+    {
+      "id": "120253030121960319",
+      "name": "AD044 [VD] LURDES - JARDIM EUROPA",
+      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [LURDES]",
+      "category": "venda",
+      "objective": "OUTCOME_LEADS",
+      "image": "media/120253030121960319-poster.jpg",
+      "video": null,
+      "mediaType": "image",
+      "updatedAt": "2026-09-24T16:30:04-0400",
+      "metrics": {
+        "impressions": 177,
+        "reach": 173,
+        "clicks": 7,
+        "spend": 3.56,
+        "results": 0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 20.112994350282484,
+        "ctr": 3.9548022598870056,
+        "cpa": null
+      }
+    },
+    {
+      "id": "120253030121970319",
+      "name": "AD049 [VD] LURDES - JARDIM EUROPA V",
+      "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
+      "adset": "05 [META] [H/M] [24/64] [PRIMAVERA DO LESTE + 60KM] [ABERTO] [LURDES]",
+      "category": "venda",
+      "objective": "OUTCOME_LEADS",
+      "image": "media/120253030121970319-poster.jpg",
+      "video": null,
+      "mediaType": "image",
+      "updatedAt": "2026-09-24T16:28:21-0400",
+      "metrics": {
+        "impressions": 239,
+        "reach": 229,
+        "clicks": 0,
+        "spend": 3.68,
+        "results": 0,
+        "resultAction": "onsite_conversion.messaging_conversation_started_7d",
+        "resultLabel": "Conversas por mensagem iniciadas",
+        "cpm": 15.397489539748953,
+        "ctr": 0.0,
+        "cpa": null
+      }
+    },
     {
       "id": "120252831982690319",
       "name": "AD056 [CS] 47 ANOS COSENTINO",
@@ -14,15 +110,15 @@
       "mediaType": "image",
       "updatedAt": "2026-09-15T13:00:59-0400",
       "metrics": {
-        "impressions": 89,
-        "reach": 76,
+        "impressions": 122,
+        "reach": 104,
         "clicks": 1,
-        "spend": 7.45,
+        "spend": 7.88,
         "results": 0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 83.70786516853933,
-        "ctr": 1.1235955056179776,
+        "cpm": 64.59016393442623,
+        "ctr": 0.819672131147541,
         "cpa": null
       }
     },
@@ -38,16 +134,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-15T12:58:35-0400",
       "metrics": {
-        "impressions": 3060,
-        "reach": 1112,
+        "impressions": 3072,
+        "reach": 1115,
         "clicks": 23,
-        "spend": 86.94,
+        "spend": 87.09,
         "results": 3.0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 28.41176470588235,
-        "ctr": 0.7516339869281046,
-        "cpa": 28.98
+        "cpm": 28.349609375,
+        "ctr": 0.7486979166666666,
+        "cpa": 29.03
       }
     },
     {
@@ -62,15 +158,15 @@
       "mediaType": "image",
       "updatedAt": "2026-09-15T12:57:28-0400",
       "metrics": {
-        "impressions": 15,
-        "reach": 10,
+        "impressions": 63,
+        "reach": 59,
         "clicks": 1,
-        "spend": 0.58,
+        "spend": 0.96,
         "results": 0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 38.666666666666664,
-        "ctr": 6.666666666666667,
+        "cpm": 15.238095238095237,
+        "ctr": 1.5873015873015872,
         "cpa": null
       }
     },
@@ -86,16 +182,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-23T16:11:18-0400",
       "metrics": {
-        "impressions": 105,
-        "reach": 95,
-        "clicks": 3,
-        "spend": 1.9,
+        "impressions": 257,
+        "reach": 225,
+        "clicks": 5,
+        "spend": 4.91,
         "results": 1.0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 18.095238095238095,
-        "ctr": 2.857142857142857,
-        "cpa": 1.9
+        "cpm": 19.105058365758754,
+        "ctr": 1.9455252918287937,
+        "cpa": 4.91
       }
     },
     {
@@ -110,16 +206,16 @@
       "mediaType": "image",
       "updatedAt": "2026-08-27T13:27:25-0400",
       "metrics": {
-        "impressions": 12894,
-        "reach": 5847,
-        "clicks": 214,
-        "spend": 253.77,
+        "impressions": 13072,
+        "reach": 5907,
+        "clicks": 219,
+        "spend": 256.81,
         "results": 30.0,
         "resultAction": "onsite_conversion.messaging_conversation_started_7d",
         "resultLabel": "Conversas por mensagem iniciadas",
-        "cpm": 19.681247091670546,
-        "ctr": 1.6596866759733209,
-        "cpa": 8.459
+        "cpm": 19.645807833537333,
+        "ctr": 1.6753365973072216,
+        "cpa": 8.560333333333334
       }
     },
     {
@@ -158,16 +254,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-21T15:46:42-0400",
       "metrics": {
-        "impressions": 2189,
-        "reach": 863,
-        "clicks": 5,
-        "spend": 12.59,
-        "results": 4.0,
+        "impressions": 2393,
+        "reach": 909,
+        "clicks": 6,
+        "spend": 14.2,
+        "results": 5.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 5.751484696208315,
-        "ctr": 0.2284148012791229,
-        "cpa": 3.1475
+        "cpm": 5.933974091099039,
+        "ctr": 0.25073129962390306,
+        "cpa": 2.84
       }
     },
     {
@@ -182,16 +278,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-21T15:43:32-0400",
       "metrics": {
-        "impressions": 4374,
-        "reach": 3478,
-        "clicks": 13,
-        "spend": 8.3,
-        "results": 11.0,
+        "impressions": 6363,
+        "reach": 4888,
+        "clicks": 16,
+        "spend": 13.14,
+        "results": 13.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 1.8975765889346137,
-        "ctr": 0.2972107910379515,
-        "cpa": 0.7545454545454546
+        "cpm": 2.065063649222065,
+        "ctr": 0.25145371680025147,
+        "cpa": 1.0107692307692309
       }
     },
     {
@@ -254,16 +350,16 @@
       "mediaType": "video",
       "updatedAt": "2026-09-18T09:11:55-0400",
       "metrics": {
-        "impressions": 1272,
-        "reach": 638,
+        "impressions": 1305,
+        "reach": 647,
         "clicks": 4,
-        "spend": 9.32,
-        "results": 159.0,
+        "spend": 9.59,
+        "results": 165.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 7.327044025157233,
-        "ctr": 0.31446540880503143,
-        "cpa": 0.05861635220125786
+        "cpm": 7.3486590038314175,
+        "ctr": 0.3065134099616858,
+        "cpa": 0.05812121212121212
       }
     },
     {
@@ -278,16 +374,16 @@
       "mediaType": "video",
       "updatedAt": "2026-09-04T16:01:07-0400",
       "metrics": {
-        "impressions": 2012,
-        "reach": 819,
+        "impressions": 2172,
+        "reach": 861,
         "clicks": 11,
-        "spend": 15.45,
-        "results": 307.0,
+        "spend": 16.88,
+        "results": 335.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 7.678926441351889,
-        "ctr": 0.5467196819085487,
-        "cpa": 0.0503257328990228
+        "cpm": 7.7716390423572745,
+        "ctr": 0.5064456721915286,
+        "cpa": 0.05038805970149254
       }
     },
     {
@@ -302,16 +398,16 @@
       "mediaType": "video",
       "updatedAt": "2026-09-04T16:00:56-0400",
       "metrics": {
-        "impressions": 2265,
-        "reach": 1916,
+        "impressions": 2271,
+        "reach": 1918,
         "clicks": 7,
-        "spend": 5.11,
-        "results": 259.0,
+        "spend": 5.12,
+        "results": 260.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 2.2560706401766004,
-        "ctr": 0.3090507726269316,
-        "cpa": 0.01972972972972973
+        "cpm": 2.2545134302069574,
+        "ctr": 0.30823425803610743,
+        "cpa": 0.019692307692307693
       }
     },
     {
@@ -350,16 +446,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-04T15:55:55-0400",
       "metrics": {
-        "impressions": 5866,
-        "reach": 1147,
+        "impressions": 5940,
+        "reach": 1152,
         "clicks": 24,
-        "spend": 37.16,
-        "results": 832.0,
+        "spend": 37.89,
+        "results": 841.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 6.3348107739515855,
-        "ctr": 0.40913740197749743,
-        "cpa": 0.044663461538461534
+        "cpm": 6.378787878787879,
+        "ctr": 0.40404040404040403,
+        "cpa": 0.045053507728894174
       }
     },
     {
@@ -374,16 +470,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-04T15:12:02-0400",
       "metrics": {
-        "impressions": 3537,
-        "reach": 2822,
+        "impressions": 3664,
+        "reach": 2884,
         "clicks": 5,
-        "spend": 7.68,
-        "results": 380.0,
+        "spend": 7.99,
+        "results": 396.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 2.171331636980492,
-        "ctr": 0.1413627367825841,
-        "cpa": 0.020210526315789474
+        "cpm": 2.1806768558951966,
+        "ctr": 0.13646288209606988,
+        "cpa": 0.02017676767676768
       }
     },
     {
@@ -398,16 +494,16 @@
       "mediaType": "image",
       "updatedAt": "2026-09-04T15:03:59-0400",
       "metrics": {
-        "impressions": 2134,
+        "impressions": 2138,
         "reach": 823,
         "clicks": 7,
-        "spend": 14.77,
-        "results": 298.0,
+        "spend": 14.82,
+        "results": 300.0,
         "resultAction": "post_engagement",
         "resultLabel": "Engajamentos",
-        "cpm": 6.921274601686973,
-        "ctr": 0.3280224929709466,
-        "cpa": 0.04956375838926174
+        "cpm": 6.931711880261927,
+        "ctr": 0.3274087932647334,
+        "cpa": 0.0494
       }
     }
   ],
@@ -421,28 +517,28 @@
   "metricsPeriod": {
     "label": "Mês atual",
     "dateStart": "2026-09-01",
-    "dateStop": "2026-09-24"
+    "dateStop": "2026-09-25"
   },
   "strategyMetrics": [
     {
       "category": "venda",
-      "spend": 740.82,
+      "spend": 757.76,
       "leads": 76.0,
-      "cpl": 9.75,
+      "cpl": 9.97,
       "campaigns": 1
     },
     {
       "category": "aluguel",
-      "spend": 255.67,
+      "spend": 261.8,
       "leads": 31.0,
-      "cpl": 8.25,
+      "cpl": 8.45,
       "campaigns": 1
     },
     {
       "category": "engajamento",
-      "spend": 446.4,
+      "spend": 455.65,
       "leads": 2.0,
-      "cpl": 223.2,
+      "cpl": 227.82,
       "campaigns": 1
     }
   ],
@@ -451,53 +547,53 @@
       "campaignId": "120241628056220319",
       "campaign": "[V4] [REC] [RECONHECIMENTO DE MARCA]",
       "category": "engajamento",
-      "spend": 446.4,
+      "spend": 455.65,
       "leads": 2.0,
-      "cpl": 223.2,
+      "cpl": 227.82,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-24"
+      "dateStop": "2026-09-25"
     },
     {
       "campaignId": "120252502295580319",
       "campaign": "[V4] [LEAD] [ONGOING] [ALUGUEL] [WHATSAPP]",
       "category": "aluguel",
-      "spend": 255.67,
+      "spend": 261.8,
       "leads": 31.0,
-      "cpl": 8.25,
+      "cpl": 8.45,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-24"
+      "dateStop": "2026-09-25"
     },
     {
       "campaignId": "120252708826430319",
       "campaign": "[V4] [LEAD] [ONGOING] [WHATSAPP] [VENDA]",
       "category": "venda",
-      "spend": 740.82,
+      "spend": 757.76,
       "leads": 76.0,
-      "cpl": 9.75,
+      "cpl": 9.97,
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-24"
+      "dateStop": "2026-09-25"
     }
   ],
   "google": {
-    "updatedAt": "2026-09-24T09:42:44.353632-03:00",
+    "updatedAt": "2026-09-25T09:31:12.437485-03:00",
     "source": "Google Ads API",
     "status": "ok",
     "metricsPeriod": {
       "dateStart": "2026-09-01",
-      "dateStop": "2026-09-24"
+      "dateStop": "2026-09-25"
     },
     "metricsScope": "all_campaigns",
     "leadDefinition": "Lead_Site_Form + LeadCompleto",
     "metrics": {
-      "spend": 1883.102516,
-      "impressions": 11641,
-      "clicks": 1771,
-      "leads": 73.0,
-      "mql": 22.0,
+      "spend": 1997.646242,
+      "impressions": 12207,
+      "clicks": 1863,
+      "leads": 75.0,
+      "mql": 24.0,
       "siteForm": 51.0,
-      "cpl": 25.795924876712327,
-      "cpc": 1.0632989926595144,
-      "ctr": 15.213469633193025
+      "cpl": 26.63528322666667,
+      "cpc": 1.0722738819108963,
+      "ctr": 15.261735070041778
     },
     "campaigns": [
       {
@@ -527,29 +623,6 @@
     ],
     "assets": [
       {
-        "id": "242730964043",
-        "kind": "video",
-        "name": "A3 Vídeo 1080x1350 - Loteamentos.mp4",
-        "text": "",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": "jCKQzLLddac",
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "YOUTUBE_VIDEO"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
         "id": "242803275997",
         "kind": "text",
         "name": "Lançamento Imobiliário",
@@ -569,7 +642,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -600,7 +673,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -631,7 +704,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -662,7 +735,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -693,7 +766,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -724,7 +797,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -747,7 +820,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -770,7 +843,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -801,7 +874,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -832,7 +905,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -863,7 +936,7 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -894,7 +967,153 @@
             "role": "HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "259681033799",
+        "kind": "text",
+        "name": "Oportunidades Cosentino",
+        "text": "Oportunidades Cosentino",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "HEADLINE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "HEADLINE"
+          }
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
+      },
+      {
+        "id": "258701806328",
+        "kind": "text",
+        "name": "45 Anos de Tradição",
+        "text": "45 Anos de Tradição",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "HEADLINE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258701806331",
+        "kind": "text",
+        "name": "Compre Seu Imóvel Conosco",
+        "text": "Compre Seu Imóvel Conosco",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "HEADLINE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258701806334",
+        "kind": "text",
+        "name": "Imóveis Em Primavera do Leste",
+        "text": "Imóveis Em Primavera do Leste",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "HEADLINE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "298895094280",
+        "kind": "text",
+        "name": "Primavera Do Leste",
+        "text": "Primavera Do Leste",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "HEADLINE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "298895094283",
+        "kind": "text",
+        "name": "Entre em Contato",
+        "text": "Entre em Contato",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "HEADLINE"
+          }
+        ],
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -920,14 +1139,6 @@
             "campaignId": "22634966392",
             "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
             "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "DESCRIPTION"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
             "group": "Grupo de recursos 2",
             "groupId": "6593783305",
             "role": "LONG_HEADLINE"
@@ -936,29 +1147,6 @@
             "campaignId": "22634966392",
             "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
             "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "DESCRIPTION"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "242803276036",
-        "kind": "text",
-        "name": "Cosentino: há 45 anos transformando o mercado imobiliário.",
-        "text": "Cosentino: há 45 anos transformando o mercado imobiliário.",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
             "group": "Grupo de recursos 1",
             "groupId": "6582300439",
             "role": "DESCRIPTION"
@@ -972,38 +1160,7 @@
             "role": "DESCRIPTION"
           }
         ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "242803276039",
-        "kind": "text",
-        "name": "Um estilo de vida exclusivo entre bairros planejados.",
-        "text": "Um estilo de vida exclusivo entre bairros planejados.",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "DESCRIPTION"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "DESCRIPTION"
-          }
-        ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -1034,7 +1191,7 @@
             "role": "LONG_HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -1065,7 +1222,7 @@
             "role": "LONG_HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -1096,7 +1253,7 @@
             "role": "LONG_HEADLINE"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -1119,40 +1276,17 @@
             "role": "LONG_HEADLINE"
           }
         ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "242842618431",
-        "kind": "video",
-        "name": "A3 Vídeo 1080x608 - Loteamentos.mp4",
-        "text": "",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": "WBi3yEDtirE",
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "YOUTUBE_VIDEO"
-          }
-        ],
         "source": "ADVERTISER",
         "showName": false
       },
       {
-        "id": "243964513019",
-        "kind": "image",
-        "name": "A2 1080x1350 - Jardim Europa_2025-06-05_17-15-14.png",
-        "text": "",
-        "image": "media/google-243964513019.jpg",
-        "width": "1080",
-        "height": "1350",
+        "id": "259681039739",
+        "kind": "text",
+        "name": "Casas e Terrenos em Primavera do Leste",
+        "text": "Casas e Terrenos em Primavera do Leste",
+        "image": null,
+        "width": null,
+        "height": null,
         "youtubeId": null,
         "active": true,
         "placements": [
@@ -1162,10 +1296,134 @@
             "channel": "PERFORMANCE_MAX",
             "group": "Grupo de recursos 1",
             "groupId": "6582300439",
-            "role": "PORTRAIT_MARKETING_IMAGE"
+            "role": "LONG_HEADLINE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "LONG_HEADLINE"
+          }
+        ],
+        "source": "AUTOMATICALLY_CREATED",
+        "showName": false
+      },
+      {
+        "id": "258701806337",
+        "kind": "text",
+        "name": "Seja Casa, Terreno ou Apartamento, a Imobiliária Cosentino Possui o Imóvel Que Você Busca",
+        "text": "Seja Casa, Terreno ou Apartamento, a Imobiliária Cosentino Possui o Imóvel Que Você Busca",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "LONG_HEADLINE"
           }
         ],
         "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "242803276036",
+        "kind": "text",
+        "name": "Cosentino: há 45 anos transformando o mercado imobiliário.",
+        "text": "Cosentino: há 45 anos transformando o mercado imobiliário.",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "DESCRIPTION"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "DESCRIPTION"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "242803276039",
+        "kind": "text",
+        "name": "Um estilo de vida exclusivo entre bairros planejados.",
+        "text": "Um estilo de vida exclusivo entre bairros planejados.",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "DESCRIPTION"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "DESCRIPTION"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "259793714355",
+        "kind": "text",
+        "name": "Casas e Terrenos em Primavera do Leste | Oportunidades Cosentino",
+        "text": "Casas e Terrenos em Primavera do Leste | Oportunidades Cosentino",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "DESCRIPTION"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "DESCRIPTION"
+          }
+        ],
+        "source": "AUTOMATICALLY_CREATED",
         "showName": false
       },
       {
@@ -1194,6 +1452,239 @@
             "group": "Grupo de recursos 2",
             "groupId": "6593783305",
             "role": "MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244029666139",
+        "kind": "image",
+        "name": "A3 1080x608 - Loteamentos__1,91:1.png",
+        "text": "",
+        "image": "media/google-244029666139.jpg",
+        "width": "1080",
+        "height": "565",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244030031881",
+        "kind": "image",
+        "name": "A3 1080x1080 - Loteamentos_2025-06-05_17-15-14_1,91:1.png",
+        "text": "",
+        "image": "media/google-244030031881.jpg",
+        "width": "1080",
+        "height": "565",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244077086247",
+        "kind": "image",
+        "name": "A1 1080x608 - Jardim das Américas_2025-06-05_17-16-00_1,91:1.png",
+        "text": "",
+        "image": "media/google-244077086247.jpg",
+        "width": "1080",
+        "height": "565",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "245916037759",
+        "kind": "image",
+        "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14_1.9108.png",
+        "text": "",
+        "image": "media/google-245916037759.jpg",
+        "width": "1080",
+        "height": "567",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258702877889",
+        "kind": "image",
+        "name": "A1 1080x608_1,91:1.png",
+        "text": "",
+        "image": "media/google-258702877889.jpg",
+        "width": "1080",
+        "height": "565",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258813758022",
+        "kind": "image",
+        "name": "A2 1080x608_1.9108.png",
+        "text": "",
+        "image": "media/google-258813758022.jpg",
+        "width": "1080",
+        "height": "565",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258813870504",
+        "kind": "image",
+        "name": "A3 1080x608_1,91:1.png",
+        "text": "",
+        "image": "media/google-258813870504.jpg",
+        "width": "1080",
+        "height": "565",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
           }
         ],
         "source": "ADVERTISER",
@@ -1264,6 +1755,231 @@
             "group": "Recursos da campanha",
             "groupId": "",
             "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244029744052",
+        "kind": "image",
+        "name": "A3 1080x1080 - Loteamentos_2025-06-05_17-15-14_1:1.png",
+        "text": "",
+        "image": "media/google-244029744052.jpg",
+        "width": "1080",
+        "height": "1086",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "SQUARE_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "SQUARE_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "245915218177",
+        "kind": "image",
+        "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14_1.png",
+        "text": "",
+        "image": "media/google-245915218177.jpg",
+        "width": "1080",
+        "height": "1080",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "SQUARE_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258702452096",
+        "kind": "image",
+        "name": "A1 1080x1080.png",
+        "text": "",
+        "image": "media/google-258702452096.jpg",
+        "width": "1080",
+        "height": "1080",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "SQUARE_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258702506741",
+        "kind": "image",
+        "name": "A3 1080x1080.png",
+        "text": "",
+        "image": "media/google-258702506741.jpg",
+        "width": "1080",
+        "height": "1080",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "SQUARE_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258702514529",
+        "kind": "image",
+        "name": "A2 1080x1080.png",
+        "text": "",
+        "image": "media/google-258702514529.jpg",
+        "width": "1080",
+        "height": "1080",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "SQUARE_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Recursos da campanha",
+            "groupId": "",
+            "role": "AD_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "242730964043",
+        "kind": "video",
+        "name": "A3 Vídeo 1080x1350 - Loteamentos.mp4",
+        "text": "",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": "jCKQzLLddac",
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "YOUTUBE_VIDEO"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "242842618431",
+        "kind": "video",
+        "name": "A3 Vídeo 1080x608 - Loteamentos.mp4",
+        "text": "",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": "WBi3yEDtirE",
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "YOUTUBE_VIDEO"
           }
         ],
         "source": "ADVERTISER",
@@ -1363,880 +2079,6 @@
         "showName": false
       },
       {
-        "id": "244029635689",
-        "kind": "image",
-        "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14.png",
-        "text": "",
-        "image": "media/google-244029635689.jpg",
-        "width": "1080",
-        "height": "1350",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244029647572",
-        "kind": "image",
-        "name": "A2 1080x1350 - Loteamentos.png",
-        "text": "",
-        "image": "media/google-244029647572.jpg",
-        "width": "1080",
-        "height": "1350",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244029666139",
-        "kind": "image",
-        "name": "A3 1080x608 - Loteamentos__1,91:1.png",
-        "text": "",
-        "image": "media/google-244029666139.jpg",
-        "width": "1080",
-        "height": "565",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244029744052",
-        "kind": "image",
-        "name": "A3 1080x1080 - Loteamentos_2025-06-05_17-15-14_1:1.png",
-        "text": "",
-        "image": "media/google-244029744052.jpg",
-        "width": "1080",
-        "height": "1086",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244030031881",
-        "kind": "image",
-        "name": "A3 1080x1080 - Loteamentos_2025-06-05_17-15-14_1,91:1.png",
-        "text": "",
-        "image": "media/google-244030031881.jpg",
-        "width": "1080",
-        "height": "565",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244077086247",
-        "kind": "image",
-        "name": "A1 1080x608 - Jardim das Américas_2025-06-05_17-16-00_1,91:1.png",
-        "text": "",
-        "image": "media/google-244077086247.jpg",
-        "width": "1080",
-        "height": "565",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244077087279",
-        "kind": "image",
-        "name": "A1 1080x1080 - Jardim das Américas_2025-06-05_17-15-14_0.8.png",
-        "text": "",
-        "image": "media/google-244077087279.jpg",
-        "width": "951",
-        "height": "1180",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "244077113409",
-        "kind": "image",
-        "name": "A3 1080x1080 - Loteamentos_2025-06-05_17-15-14_4:5.png",
-        "text": "",
-        "image": "media/google-244077113409.jpg",
-        "width": "951",
-        "height": "1180",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "259681033799",
-        "kind": "text",
-        "name": "Oportunidades Cosentino",
-        "text": "Oportunidades Cosentino",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "HEADLINE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "259681039739",
-        "kind": "text",
-        "name": "Casas e Terrenos em Primavera do Leste",
-        "text": "Casas e Terrenos em Primavera do Leste",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "LONG_HEADLINE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "LONG_HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "259793714355",
-        "kind": "text",
-        "name": "Casas e Terrenos em Primavera do Leste | Oportunidades Cosentino",
-        "text": "Casas e Terrenos em Primavera do Leste | Oportunidades Cosentino",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "DESCRIPTION"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "DESCRIPTION"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "423765707878",
-        "kind": "image",
-        "name": "JEV - Abertura de vendas - Feed - V2.png",
-        "text": "",
-        "image": "media/google-423765707878.jpg",
-        "width": "1080",
-        "height": "1350",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "423765824539",
-        "kind": "image",
-        "name": "JEV - Abertura de vendas - Story - V2.png",
-        "text": "",
-        "image": "media/google-423765824539.jpg",
-        "width": "1080",
-        "height": "1920",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 1",
-            "groupId": "6582300439",
-            "role": "TALL_PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "245915218177",
-        "kind": "image",
-        "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14_1.png",
-        "text": "",
-        "image": "media/google-245915218177.jpg",
-        "width": "1080",
-        "height": "1080",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "245916037759",
-        "kind": "image",
-        "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14_1.9108.png",
-        "text": "",
-        "image": "media/google-245916037759.jpg",
-        "width": "1080",
-        "height": "567",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258701806328",
-        "kind": "text",
-        "name": "45 Anos de Tradição",
-        "text": "45 Anos de Tradição",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "258701806331",
-        "kind": "text",
-        "name": "Compre Seu Imóvel Conosco",
-        "text": "Compre Seu Imóvel Conosco",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "258701806334",
-        "kind": "text",
-        "name": "Imóveis Em Primavera do Leste",
-        "text": "Imóveis Em Primavera do Leste",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "258701806337",
-        "kind": "text",
-        "name": "Seja Casa, Terreno ou Apartamento, a Imobiliária Cosentino Possui o Imóvel Que Você Busca",
-        "text": "Seja Casa, Terreno ou Apartamento, a Imobiliária Cosentino Possui o Imóvel Que Você Busca",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "LONG_HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "258702452096",
-        "kind": "image",
-        "name": "A1 1080x1080.png",
-        "text": "",
-        "image": "media/google-258702452096.jpg",
-        "width": "1080",
-        "height": "1080",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258702506741",
-        "kind": "image",
-        "name": "A3 1080x1080.png",
-        "text": "",
-        "image": "media/google-258702506741.jpg",
-        "width": "1080",
-        "height": "1080",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258702507053",
-        "kind": "image",
-        "name": "A3 1080x1350.png",
-        "text": "",
-        "image": "media/google-258702507053.jpg",
-        "width": "1080",
-        "height": "1350",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258702512975",
-        "kind": "image",
-        "name": "A1 1080x1350.png",
-        "text": "",
-        "image": "media/google-258702512975.jpg",
-        "width": "1080",
-        "height": "1350",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258702514529",
-        "kind": "image",
-        "name": "A2 1080x1080.png",
-        "text": "",
-        "image": "media/google-258702514529.jpg",
-        "width": "1080",
-        "height": "1080",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "SQUARE_MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258702877889",
-        "kind": "image",
-        "name": "A1 1080x608_1,91:1.png",
-        "text": "",
-        "image": "media/google-258702877889.jpg",
-        "width": "1080",
-        "height": "565",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258777645901",
-        "kind": "image",
-        "name": "A2 1080x1350.png",
-        "text": "",
-        "image": "media/google-258777645901.jpg",
-        "width": "1080",
-        "height": "1350",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "PORTRAIT_MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258813758022",
-        "kind": "image",
-        "name": "A2 1080x608_1.9108.png",
-        "text": "",
-        "image": "media/google-258813758022.jpg",
-        "width": "1080",
-        "height": "565",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "MARKETING_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "258813870504",
-        "kind": "image",
-        "name": "A3 1080x608_1,91:1.png",
-        "text": "",
-        "image": "media/google-258813870504.jpg",
-        "width": "1080",
-        "height": "565",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "MARKETING_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Recursos da campanha",
-            "groupId": "",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "ADVERTISER",
-        "showName": false
-      },
-      {
-        "id": "298895094280",
-        "kind": "text",
-        "name": "Primavera Do Leste",
-        "text": "Primavera Do Leste",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "298895094283",
-        "kind": "text",
-        "name": "Entre em Contato",
-        "text": "Entre em Contato",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22634966392",
-            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
-            "channel": "PERFORMANCE_MAX",
-            "group": "Grupo de recursos 2",
-            "groupId": "6593783305",
-            "role": "HEADLINE"
-          }
-        ],
-        "source": null,
-        "showName": false
-      },
-      {
         "id": "421393320998",
         "kind": "video",
         "name": "Primavera do Leste é destaque nacional | Splendore Resort Residence",
@@ -2306,6 +2148,260 @@
         "showName": false
       },
       {
+        "id": "243964513019",
+        "kind": "image",
+        "name": "A2 1080x1350 - Jardim Europa_2025-06-05_17-15-14.png",
+        "text": "",
+        "image": "media/google-243964513019.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244029635689",
+        "kind": "image",
+        "name": "A1 1080x1350 - Jardim das Américas_2025-06-05_17-15-14.png",
+        "text": "",
+        "image": "media/google-244029635689.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244029647572",
+        "kind": "image",
+        "name": "A2 1080x1350 - Loteamentos.png",
+        "text": "",
+        "image": "media/google-244029647572.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244077087279",
+        "kind": "image",
+        "name": "A1 1080x1080 - Jardim das Américas_2025-06-05_17-15-14_0.8.png",
+        "text": "",
+        "image": "media/google-244077087279.jpg",
+        "width": "951",
+        "height": "1180",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "244077113409",
+        "kind": "image",
+        "name": "A3 1080x1080 - Loteamentos_2025-06-05_17-15-14_4:5.png",
+        "text": "",
+        "image": "media/google-244077113409.jpg",
+        "width": "951",
+        "height": "1180",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "423765707878",
+        "kind": "image",
+        "name": "JEV - Abertura de vendas - Feed - V2.png",
+        "text": "",
+        "image": "media/google-423765707878.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          },
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258702507053",
+        "kind": "image",
+        "name": "A3 1080x1350.png",
+        "text": "",
+        "image": "media/google-258702507053.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258702512975",
+        "kind": "image",
+        "name": "A1 1080x1350.png",
+        "text": "",
+        "image": "media/google-258702512975.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "258777645901",
+        "kind": "image",
+        "name": "A2 1080x1350.png",
+        "text": "",
+        "image": "media/google-258777645901.jpg",
+        "width": "1080",
+        "height": "1350",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 2",
+            "groupId": "6593783305",
+            "role": "PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "423765824539",
+        "kind": "image",
+        "name": "JEV - Abertura de vendas - Story - V2.png",
+        "text": "",
+        "image": "media/google-423765824539.jpg",
+        "width": "1080",
+        "height": "1920",
+        "youtubeId": null,
+        "active": true,
+        "placements": [
+          {
+            "campaignId": "22634966392",
+            "campaign": "[V4] [LEAD] [ONGOING] [PMAX]",
+            "channel": "PERFORMANCE_MAX",
+            "group": "Grupo de recursos 1",
+            "groupId": "6582300439",
+            "role": "TALL_PORTRAIT_MARKETING_IMAGE"
+          }
+        ],
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
         "id": "258697935382",
         "kind": "text",
         "name": "Bairros Planejados",
@@ -2333,7 +2429,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2364,7 +2460,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2387,7 +2483,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2418,7 +2514,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2449,7 +2545,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2488,7 +2584,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2511,7 +2607,7 @@
             "role": "SITELINK"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2550,7 +2646,7 @@
             "role": "BUSINESS_NAME"
           }
         ],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -2847,37 +2943,6 @@
         "showName": false
       },
       {
-        "id": "313132895897",
-        "kind": "image",
-        "name": "Recurso visual",
-        "text": "",
-        "image": "media/google-313132895897.jpg",
-        "width": "432",
-        "height": "432",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Core - Venda",
-            "groupId": "179050482901",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Grupo de anúncios 1",
-            "groupId": "180543226043",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "AUTOMATICALLY_CREATED",
-        "showName": false
-      },
-      {
         "id": "313132895900",
         "kind": "image",
         "name": "Recurso visual",
@@ -2885,37 +2950,6 @@
         "image": "media/google-313132895900.jpg",
         "width": "905",
         "height": "905",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Core - Venda",
-            "groupId": "179050482901",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Grupo de anúncios 1",
-            "groupId": "180543226043",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "AUTOMATICALLY_CREATED",
-        "showName": false
-      },
-      {
-        "id": "315934190791",
-        "kind": "image",
-        "name": "Recurso visual",
-        "text": "",
-        "image": "media/google-315934190791.jpg",
-        "width": "432",
-        "height": "432",
         "youtubeId": null,
         "active": true,
         "placements": [
@@ -2950,6 +2984,22 @@
         "youtubeId": null,
         "active": true,
         "placements": [
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Core - Venda",
+            "groupId": "179050482901",
+            "role": "AD_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Grupo de anúncios 1",
+            "groupId": "180543226043",
+            "role": "AD_IMAGE"
+          },
           {
             "campaignId": "22770904798",
             "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
@@ -3062,22 +3112,6 @@
             "campaignId": "22770904798",
             "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
             "channel": "SEARCH",
-            "group": "Core - Venda",
-            "groupId": "179050482901",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Grupo de anúncios 1",
-            "groupId": "180543226043",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
             "group": "Core - Aluguel",
             "groupId": "186057437733",
             "role": "AD_IMAGE"
@@ -3120,6 +3154,22 @@
         "youtubeId": null,
         "active": true,
         "placements": [
+          {
+            "campaignId": "22770904798",
+            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+            "channel": "SEARCH",
+            "group": "Core - Venda",
+            "groupId": "179050482901",
+            "role": "AD_IMAGE"
+          },
+          {
+            "campaignId": "22661530554",
+            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
+            "channel": "SEARCH",
+            "group": "Grupo de anúncios 1",
+            "groupId": "180543226043",
+            "role": "AD_IMAGE"
+          },
           {
             "campaignId": "22770904798",
             "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
@@ -3195,37 +3245,6 @@
             "channel": "SEARCH",
             "group": "Core - Aluguel",
             "groupId": "186057437733",
-            "role": "AD_IMAGE"
-          }
-        ],
-        "source": "AUTOMATICALLY_CREATED",
-        "showName": false
-      },
-      {
-        "id": "399243739444",
-        "kind": "image",
-        "name": "Recurso visual",
-        "text": "",
-        "image": "media/google-399243739444.jpg",
-        "width": "408",
-        "height": "408",
-        "youtubeId": null,
-        "active": true,
-        "placements": [
-          {
-            "campaignId": "22770904798",
-            "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-            "channel": "SEARCH",
-            "group": "Core - Venda",
-            "groupId": "179050482901",
-            "role": "AD_IMAGE"
-          },
-          {
-            "campaignId": "22661530554",
-            "campaign": "[V4] [LEAD] [SEARCH] [INSTITUCIONAL]",
-            "channel": "SEARCH",
-            "group": "Grupo de anúncios 1",
-            "groupId": "180543226043",
             "role": "AD_IMAGE"
           }
         ],
@@ -3358,9 +3377,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-85d36511b8f6a9d0ddeb",
@@ -3395,9 +3412,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-4937a7f0046605554736",
@@ -3432,9 +3447,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-4064bc3c91e43a68a38e",
@@ -3469,9 +3482,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-c064f721eb1d331a2969",
@@ -3506,9 +3517,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-9b5a06facebfa83df17f",
@@ -3543,9 +3552,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-37658c39ccb6d4359ff5",
@@ -3588,9 +3595,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-3f368145993733d28415",
@@ -3633,9 +3638,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-d922710529f23da869b4",
@@ -3678,9 +3681,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-97df48f80126ea05701c",
@@ -3715,9 +3716,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-90cba20c368b59d176c5",
@@ -3752,9 +3751,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-64c5c42d52b3bc4ebb9a",
@@ -3789,9 +3786,7 @@
             "groupId": "180543226043",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-f89a083983410f704574",
@@ -3826,9 +3821,7 @@
             "groupId": "180543226043",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-f33885df8a81a14dd7fa",
@@ -3855,9 +3848,7 @@
             "groupId": "180543226043",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-9f617e00491bdfc58e36",
@@ -3892,9 +3883,7 @@
             "groupId": "180543226043",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-1daa7f66869701a7dbfb",
@@ -3937,9 +3926,7 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-df049be203acac3386c3",
@@ -3958,9 +3945,7 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-1fb4a1cc2ef1dc973728",
@@ -3979,9 +3964,7 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-38fddfaca4e3c3e6ec23",
@@ -4000,9 +3983,7 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-b3fbc81f18574e0f0a3a",
@@ -4021,9 +4002,7 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-947a02d44cdbb559322f",
@@ -4042,9 +4021,7 @@
             "groupId": "179050482901",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-4b3a8c88f8cf286b3adf",
@@ -4071,9 +4048,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-ffb18927e4c7c91c21b6",
@@ -4092,9 +4067,7 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-0710474afd329c1cfc71",
@@ -4113,9 +4086,7 @@
             "groupId": "179050482901",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-9b8a030903e0a89a690d",
@@ -4134,9 +4105,7 @@
             "groupId": "179050482901",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-3ca52fed3e73909c4614",
@@ -4155,9 +4124,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-108deab3891ab761f888",
@@ -4176,9 +4143,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-5f893064beb366d1afbc",
@@ -4197,9 +4162,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-f04adaca4294e747ce9d",
@@ -4218,9 +4181,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-281ca4319f9d1dc38a56",
@@ -4239,9 +4200,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-90bc3cf90a1c01f854d2",
@@ -4260,9 +4219,7 @@
             "groupId": "186057437733",
             "role": "HEADLINE"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-e2b3d9ff78e3539efee3",
@@ -4281,9 +4238,7 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-a096c4fd907e06db71ec",
@@ -4302,9 +4257,7 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "text-09aefa23d922f722f39e",
@@ -4323,9 +4276,7 @@
             "groupId": "186057437733",
             "role": "DESCRIPTION"
           }
-        ],
-        "source": null,
-        "showName": false
+        ]
       },
       {
         "id": "287141095002",
@@ -4338,7 +4289,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4352,7 +4303,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4366,7 +4317,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4380,7 +4331,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4394,7 +4345,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4408,7 +4359,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4422,21 +4373,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "293963132045",
-        "kind": "text",
-        "name": "Imóveis Para Alugar",
-        "text": "Imóveis Para Alugar",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": false,
-        "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4450,7 +4387,21 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "293963132045",
+        "kind": "text",
+        "name": "Imóveis Para Alugar",
+        "text": "Imóveis Para Alugar",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": false,
+        "placements": [],
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4464,7 +4415,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "AUTOMATICALLY_CREATED",
         "showName": false
       },
       {
@@ -4478,7 +4429,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4492,7 +4443,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4506,7 +4457,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4520,7 +4471,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4534,7 +4485,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4548,7 +4499,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4562,7 +4513,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4576,21 +4527,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
-        "showName": false
-      },
-      {
-        "id": "259793708790",
-        "kind": "text",
-        "name": "Casas prontas para morar e terrenos com condições diferenciadas",
-        "text": "Casas prontas para morar e terrenos com condições diferenciadas",
-        "image": null,
-        "width": null,
-        "height": null,
-        "youtubeId": null,
-        "active": false,
-        "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4604,7 +4541,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "AUTOMATICALLY_CREATED",
         "showName": false
       },
       {
@@ -4618,7 +4555,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4632,7 +4569,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "AUTOMATICALLY_CREATED",
         "showName": false
       },
       {
@@ -4646,7 +4583,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4660,7 +4597,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "AUTOMATICALLY_CREATED",
         "showName": false
       },
       {
@@ -4674,7 +4611,7 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
         "showName": false
       },
       {
@@ -4688,7 +4625,21 @@
         "youtubeId": null,
         "active": false,
         "placements": [],
-        "source": null,
+        "source": "ADVERTISER",
+        "showName": false
+      },
+      {
+        "id": "259793708790",
+        "kind": "text",
+        "name": "Casas prontas para morar e terrenos com condições diferenciadas",
+        "text": "Casas prontas para morar e terrenos com condições diferenciadas",
+        "image": null,
+        "width": null,
+        "height": null,
+        "youtubeId": null,
+        "active": false,
+        "placements": [],
+        "source": "AUTOMATICALLY_CREATED",
         "showName": false
       }
     ],
@@ -4700,7 +4651,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Venda",
         "rank": 1,
-        "impressions": 84,
+        "impressions": 86,
         "period": "month",
         "components": [
           {
@@ -4720,7 +4671,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Venda",
         "rank": 2,
-        "impressions": 41,
+        "impressions": 43,
         "period": "month",
         "components": [
           {
@@ -4740,7 +4691,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Aluguel",
         "rank": 1,
-        "impressions": 34,
+        "impressions": 35,
         "period": "month",
         "components": [
           {
@@ -4760,7 +4711,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Venda",
         "rank": 1,
-        "impressions": 31,
+        "impressions": 32,
         "period": "month",
         "components": [
           {
@@ -4770,6 +4721,34 @@
           {
             "assetId": "287049927734",
             "role": "DESCRIPTION_1"
+          }
+        ]
+      },
+      {
+        "id": "rsa-763147410668-3",
+        "channel": "SEARCH",
+        "campaignId": "22770904798",
+        "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+        "group": "Core - Venda",
+        "rank": 3,
+        "impressions": 26,
+        "period": "month",
+        "components": [
+          {
+            "assetId": "286674160380",
+            "role": "HEADLINE_1"
+          },
+          {
+            "assetId": "245844105710",
+            "role": "HEADLINE_2"
+          },
+          {
+            "assetId": "287143269138",
+            "role": "DESCRIPTION_1"
+          },
+          {
+            "assetId": "258700200509",
+            "role": "AD_IMAGE"
           }
         ]
       },
@@ -4793,34 +4772,6 @@
           },
           {
             "assetId": "293963132063",
-            "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "258700200509",
-            "role": "AD_IMAGE"
-          }
-        ]
-      },
-      {
-        "id": "rsa-763147410668-3",
-        "channel": "SEARCH",
-        "campaignId": "22770904798",
-        "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-        "group": "Core - Venda",
-        "rank": 3,
-        "impressions": 22,
-        "period": "month",
-        "components": [
-          {
-            "assetId": "286674160380",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "245844105710",
-            "role": "HEADLINE_2"
-          },
-          {
-            "assetId": "287143269138",
             "role": "DESCRIPTION_1"
           },
           {
@@ -4864,7 +4815,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Venda",
         "rank": 5,
-        "impressions": 16,
+        "impressions": 17,
         "period": "month",
         "components": [
           {
@@ -4904,7 +4855,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Venda",
         "rank": 3,
-        "impressions": 8,
+        "impressions": 9,
         "period": "month",
         "components": [
           {
@@ -4984,7 +4935,7 @@
         "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
         "group": "Core - Aluguel",
         "rank": 3,
-        "impressions": 7,
+        "impressions": 8,
         "period": "month",
         "components": [
           {
@@ -5146,6 +5097,26 @@
         ]
       },
       {
+        "id": "rsa-762710483006-4",
+        "channel": "SEARCH",
+        "campaignId": "22770904798",
+        "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
+        "group": "Core - Venda",
+        "rank": 4,
+        "impressions": 5,
+        "period": "month",
+        "components": [
+          {
+            "assetId": "259681039739",
+            "role": "HEADLINE_1"
+          },
+          {
+            "assetId": "287049927734",
+            "role": "DESCRIPTION_1"
+          }
+        ]
+      },
+      {
         "id": "rsa-757813810255-2",
         "channel": "SEARCH",
         "campaignId": "22661530554",
@@ -5174,26 +5145,6 @@
         ]
       },
       {
-        "id": "rsa-762710483006-4",
-        "channel": "SEARCH",
-        "campaignId": "22770904798",
-        "campaign": "[V4] [LEAD] [SEARCH] [VENDAS/CONCORRENTES]",
-        "group": "Core - Venda",
-        "rank": 4,
-        "impressions": 4,
-        "period": "month",
-        "components": [
-          {
-            "assetId": "287143269135",
-            "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "287049927734",
-            "role": "DESCRIPTION_1"
-          }
-        ]
-      },
-      {
         "id": "rsa-762710483006-5",
         "channel": "SEARCH",
         "campaignId": "22770904798",
@@ -5204,20 +5155,12 @@
         "period": "month",
         "components": [
           {
-            "assetId": "298895094280",
+            "assetId": "287143269135",
             "role": "HEADLINE_1"
-          },
-          {
-            "assetId": "242803276003",
-            "role": "HEADLINE_2"
           },
           {
             "assetId": "287049927734",
             "role": "DESCRIPTION_1"
-          },
-          {
-            "assetId": "258700200509",
-            "role": "AD_IMAGE"
           }
         ]
       },
@@ -5236,7 +5179,7 @@
             "role": "HEADLINE_1"
           },
           {
-            "assetId": "258701806334",
+            "assetId": "242803276006",
             "role": "HEADLINE_2"
           },
           {
@@ -5246,14 +5189,6 @@
           {
             "assetId": "242843430090",
             "role": "BUSINESS_NAME"
-          },
-          {
-            "assetId": "245843818334",
-            "role": "AD_IMAGE"
-          },
-          {
-            "assetId": "245916037759",
-            "role": "AD_IMAGE"
           }
         ]
       },
@@ -5268,15 +5203,15 @@
         "period": "month",
         "components": [
           {
-            "assetId": "298895094280",
+            "assetId": "242803276000",
             "role": "HEADLINE_1"
           },
           {
-            "assetId": "243853786162",
+            "assetId": "258701806334",
             "role": "HEADLINE_2"
           },
           {
-            "assetId": "242803276036",
+            "assetId": "242803276048",
             "role": "DESCRIPTION_1"
           },
           {
@@ -5312,7 +5247,7 @@
             "role": "HEADLINE_2"
           },
           {
-            "assetId": "259793708790",
+            "assetId": "242803276036",
             "role": "DESCRIPTION_1"
           },
           {
